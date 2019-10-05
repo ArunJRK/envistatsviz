@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.3.1/mapbox-gl.css' rel='stylesheet'>
+    <link rel="stylesheet" type="text/css" href="css/jquery.powertip.min.css">
+    <link rel="stylesheet" type="text/css" href="main.min.css">
+
+    <script src="Scripts/jquery.min.js"></script>
+    <script src="Scripts/Chart.js"></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.3.1/mapbox-gl.js'></script>
+    <script src="scripts/rainbowvis.js"></script>
+    <script src="script/jquery.powertip.min.js"></script>
+</head>
+
+<body>
+    <div id="topbar">
+        <a href="index.html"><img src="Images/logo.png"></a>
+        <div style="float:right; margin-right: 100px; margin-top: 35px;align-items:center">
+            <span>
+                <a href="index.html">Home</a>
+            </span>
+            <span>
+                <a href="#refresh" onClick="document.location.reload(true)">Refresh</a>
+            </span>
+        </div>
+    </div>
+
+
+    <div class="content">
+        <div class="info-chunk">
+            <div id='map' style='width: 400px; height: 600px;'></div>
+        </div>
+    </div>
+
+
+    <script>
+        mapboxgl.accessToken =
+            'pk.eyJ1IjoiYXJ1bmpyayIsImEiOiJjamxmMHRrZDgwcGxlM3Fxb3k3ZDI1Y3IwIn0.KuuUXjIWUQEKLQ0dMgSyFA';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v11'
+        });
+    </script>
+</body>
+
+</html>
