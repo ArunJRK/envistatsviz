@@ -1,0 +1,22 @@
+{
+ "States" : {{jsonize(cells["States"].value)}},
+ "actual": [
+  {
+   "year":"2013" 
+   "rain" :{{jsonize(cells["2013"].value)}}},
+  {
+   "year":"2014" 
+   "rain" :{{jsonize(cells["2014"].value)}}},
+ {
+   "year":"2015" 
+   "rain" :{{jsonize(cells["2015"].value)}}},
+ {
+   "year":"2016" 
+   "rain" :{{jsonize(cells["2016"].value)}}},
+ {
+   "year":"2017" 
+   "rain" :{{jsonize(cells["2017"].value)}}},
+ {
+   "year":"2018" 
+   "rain" :{{jsonize(cells["2018"].value)}}}     ]
+}

@@ -1,0 +1,30 @@
+{ "State" :  {{jsonize(cells["State"].value)}},
+      
+    "Soil": [
+    { "type": "Alluvial" , "area"  : {{jsonize(cells["Alluvial"].value)}}
+ },{ "type" :  "Coastal Alluvial" , "area"  : {{jsonize(cells["Coastal Alluvial"].value)}}
+ },{ "type" :  "Black" , "area"  : {{jsonize(cells["Black"].value)}}
+ },{ "type" :    "Brown forest" , "area"  : {{jsonize(cells["Brown forest"].value)}}
+ },{ "type" :    "Beaches" , "area"  : {{jsonize(cells["Beaches"].value)}}
+},{ "type" :   "Mountain meadow" , "area"  : {{jsonize(cells["Mountain meadow"].value)}}
+   },{ "type" :   "Laterites" , "area"  : {{jsonize(cells["Laterites"].value)}}
+  },{ "type" :    "Sub-montane soils" , "area"  : {{jsonize(cells["Sub-montane soils"].value)}}
+  },{ "type" :    "Salt    Waste" , "area"  : {{jsonize(cells["Salt    Waste"].value)}}
+   },{ "type" :   "Sand dunes" , "area"  : {{jsonize(cells["Sand dunes"].value)}}
+   },{ "type" :   "Greeks and Lagoons" , "area"  : {{jsonize(cells["Greeks and Lagoons"].value)}}
+   },{ "type" :   "Gullied land" , "area"  : {{jsonize(cells["Gullied land"].value)}}
+   },{ "type" :   "Glaciers" , "area"  : {{jsonize(cells["Glaciers"].value)}}
+  },{ "type" :    "Desert" , "area"  : {{jsonize(cells["Desert"].value)}}
+   },{ "type" :   "Hill" , "area"  : {{jsonize(cells["Hill"].value)}}
+   },{ "type" :   "Water bodies" , "area"  : {{jsonize(cells["Water bodies"].value)}}
+   },{ "type" :   "Peat" , "area"  : {{jsonize(cells["Peat"].value)}}
+   },{ "type" :   "Red" , "area"  : {{jsonize(cells["Red"].value)}}
+   },{ "type" :   "Rockouterops" , "area"  : {{jsonize(cells["Rockouterops"].value)}}
+   },{ "type" :   "Rock Land" , "area"  : {{jsonize(cells["Rock Land"].value)}}
+   },{ "type" :   "Terai Soils" , "area"  : {{jsonize(cells["Terai Soils"].value)}}
+   },{ "type" :   "Mangrove swamps" , "area"  : {{jsonize(cells["Mangrove swamps"].value)}}
+   },{ "type" :   "Miscellaneous" , "area"  : {{jsonize(cells["Miscellaneous"].value)}}
+   },{ "type" :   "Others" , "area"  : {{jsonize(cells["Others"].value)}}
+   },{ "type" :   "Total" , "area"  : {{jsonize(cells["Total"].value)}}}
+    ]
+}
