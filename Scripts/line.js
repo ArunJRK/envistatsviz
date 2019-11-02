@@ -1,11 +1,6 @@
 
 am4core.useTheme(am4themes_animated);
 
-var chart = am4core.create("chartdiv", am4charts.XYChart);
-chart.paddingRight = 20;
-
-
-
 //Adding Data
 
 var google ;
@@ -16,11 +11,14 @@ var google ;
      
     draw();
  });
+ 
 
 function draw(){ 
+  var chart = am4core.create("chartdiv", am4charts.XYChart);
+chart.paddingRight = 20;
   var soft;
   for(var i =0; i<google.length; i++ ){
-  if(!google[i].State.localeCompare("Odisha")){
+  if(!google[i].State.localeCompare(name)){
     console.log("successis at peak");
     soft = google[i].actual;
     console.log(soft);
@@ -30,56 +28,8 @@ function draw(){
 
 
 
-// var apple = [{
-//     "East Uttar Pradesh": {
-//       "2013": 1042.1,
-//       "2014": 701.4,
-//       "2015": 603.6,
-//       "2016": 871.7,
-//       "2017": 650,
-//       "2018": 758
-//     },
-//     "Odisha": {
-//       "2013": 1632.4,
-//       "2014": 1536.9,
-//       "2015": 1210.1,
-//       "2016": 1253.5,
-//       "2017": 1053.1,
-//       "2018": 1290.2
-//     }}];
-
-   // console.log(apple);
 
     chart.data = soft;
-// chart.data = [{
-//     "country": "Lithuania",
-//     "litres": 501
-//   }, {
-//     "country": "Czechia",
-//     "litres": 301
-//   }, {
-//     "country": "Ireland",
-//     "litres": 201
-//   }, {
-//     "country": "Germany",
-//     "litres": 165
-//   }, {
-//     "country": "Australia",
-//     "litres": 139
-//   }, {
-//     "country": "Austria",
-//     "litres": 128
-//   }, {
-//     "country": "UK",
-//     "litres": 99
-//   }, {
-//     "country": "Belgium",
-//     "litres": 60
-//   }, {
-//     "country": "The Netherlands",
-//     "litres": 50
-//   }];
-
   
 
   var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
@@ -145,4 +95,6 @@ chart.cursor = new am4charts.XYCursor();
 // var scrollbarX = new am4charts.XYChartScrollbar();
 // scrollbarX.series.push(series);
 // chart.scrollbarX = scrollbarX;
-  }
+ 
+}
+

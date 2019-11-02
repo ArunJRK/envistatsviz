@@ -29,6 +29,11 @@ polygonTemplate.events.on("hit", function(ev) {
     console.log("clicked on ", ev.target.dataItem.dataContext.name);
     name = ev.target.dataItem.dataContext.name;
     drawtree();
+    //document.getElementById('chartdiv').innerHTML="";
+    
+   // $("chartdiv").append("<strong>Rainfall</strong>");
+  //console.log('emptied');
+    //draw();
 }, this);
    
 
