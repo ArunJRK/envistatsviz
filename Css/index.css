@@ -18,12 +18,16 @@ body {
   align-items: center;
 }
 
-#chartdiv {
+#actualrain {
   width: 300px;
   max-height: 600px;
   height: 400px;
 }
 
+#normalrain{
+  width: 300px;
+  height: 400px;
+}
 #chartdiv2 {
   width: 400px;
   height: 300px;

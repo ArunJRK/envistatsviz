@@ -28,8 +28,10 @@ map.maxZoomLevel = 1;
 polygonTemplate.events.on("hit", function(ev) {
     console.log("clicked on ", ev.target.dataItem.dataContext.name);
     name = ev.target.dataItem.dataContext.name;
+    console.log(name);
     drawtree();
-    //document.getElementById('chartdiv').innerHTML="";
+    getlinedata ();
+   //document.getElementById('chartdiv').innerHTML="";
     
    // $("chartdiv").append("<strong>Rainfall</strong>");
   //console.log('emptied');
