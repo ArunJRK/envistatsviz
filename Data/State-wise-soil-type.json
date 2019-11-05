@@ -34,6 +34,113 @@
                 "type": "Sub-montane soils",
                 "area": 0
             },
+            
+            {
+                "type": "Salt    Waste",
+                "area": 0
+            },
+            {
+                "type": "Sand dunes",
+                "area": 0
+            },
+            {
+                "type": "Greeks and Lagoons",
+                "area": 0
+            },
+            {
+                "type": "Gullied land",
+                "area": 0
+            },
+            {
+                "type": "Glaciers",
+                "area": 0
+            },
+            {
+                "type": "Desert",
+                "area": 0
+            },
+            {
+                "type": "Hill",
+                "area": 0
+            },
+            {
+                "type": "Water bodies",
+                "area": 0
+            },
+            {
+                "type": "Peat",
+                "area": 0
+            },
+            {
+                "type": "Red",
+                "area": 9930.11
+            },
+            {
+                "type": "Rockouterops",
+                "area": 0
+            },
+            {
+                "type": "Rock Land",
+                "area": 0
+            },
+            {
+                "type": "Terai Soils",
+                "area": 0
+            },
+            {
+                "type": "Mangrove swamps",
+                "area": 0
+            },
+            {
+                "type": "Miscellaneous",
+                "area": 0
+            },
+            {
+                "type": "Others",
+                "area": 2625.95
+            },
+            {
+                "type": "Total",
+                "area": 27504.5
+            }
+        ]
+    },
+    {
+        "State": "Telangana",
+        "Soil": [
+            {
+                "type": "Alluvial",
+                "area": 2432.68
+            },
+            {
+                "type": "Coastal Alluvial",
+                "area": 785.15
+            },
+            {
+                "type": "Black",
+                "area": 4727.26
+            },
+            {
+                "type": "Brown forest",
+                "area": 0
+            },
+            {
+                "type": "Beaches",
+                "area": 0
+            },
+            {
+                "type": "Mountain meadow",
+                "area": 0
+            },
+            {
+                "type": "Laterites",
+                "area": 7003.35
+            },
+            {
+                "type": "Sub-montane soils",
+                "area": 0
+            },
+            
             {
                 "type": "Salt    Waste",
                 "area": 0

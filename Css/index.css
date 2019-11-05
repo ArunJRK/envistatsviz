@@ -12,9 +12,23 @@ body {
   padding-top:1%;
   padding-bottom: 0%;
   padding-left: 6%;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 0.3em;
   justify-content: end;
+  align-items: center;
+}
+
+#gog{  
+  display: grid;
+  padding: 6%;
+  padding-right: 0%;
+  padding-top:1%;
+  padding-bottom: 0%;
+  padding-left: 6%;
+  
+  grid-gap: 0.3em;
+  justify-content: end;
+  grid-template-columns: 3fr 1fr;
   align-items: center;
 }
 

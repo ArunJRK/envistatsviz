@@ -1,21 +1,21 @@
 var normalrain = am4core.create("normalrain", am4charts.XYChart);
 normalrain.paddingRight = 20;
-var maindata;
+var maindata2;
 
 $.getJSON("Data/normalrain.json", function (data) {
-  maindata = data;
-  getlinedata();
-  console.log(maindata);
+  maindata2 = data;
+  getline2data();
+  console.log(maindata2);
 
 });
 
 
-function getlinedata() {
+function getline2data() {
   var subdata;
-  for (var i = 0; i < maindata.length; i++) {
-    if (!maindata[i].State.localeCompare(name)) {
+  for (var i = 0; i < maindata2.length; i++) {
+    if (!maindata2[i].State.localeCompare(name)) {
       // console.log("successis at peak");
-      subdata = maindata[i].actual;
+      subdata = maindata2[i].actual;
       console.log(subdata);
     } else {
       console.log('fail');
@@ -25,9 +25,9 @@ function getlinedata() {
   normalrain.data = subdata;
 }
 
-drawline();
+drawline2();
 
-function drawline() {
+function drawline2() {
 
   // normalrain.invalidateData();
   var categoryAxis = normalrain.xAxes.push(new am4charts.CategoryAxis());
@@ -36,7 +36,7 @@ function drawline() {
 
   var valueAxis = normalrain.yAxes.push(new am4charts.ValueAxis());
   valueAxis.title.text = "Rainfall in mm";
-
+console.log("apple");
   //   var series = normalrain.series.push(new am4charts.ColumnSeries());
   // series.name = "Sales";
   // series.columns.template.tooltipText = "Series: {name}\nCategory: {categoryX}\nValue: {valueY}";
