@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "redesign pre",
+			"path": "E:\\Design\\redesign pre"
+		},
+		{
+			"name": "Redesign",
+			"path": "E:\\Design\\Redesign"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Redesign"
+	}
+}

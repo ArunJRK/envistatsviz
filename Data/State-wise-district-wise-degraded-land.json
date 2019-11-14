@@ -1,0 +1,826 @@
+[    {
+  "State" : "Andhra Pradesh",
+  "District" : "Chittor",
+  "Total Area" : 1492644,
+  "Total Degraded Land area" : 127725,
+  "Percent of Degraded Area" : 8.56
+},
+{
+  "State" : "Andhra Pradesh",
+  "District" : "Kurnool",
+  "Total Area" : 1761393,
+  "Total Degraded Land area" : 309412,
+  "Percent of Degraded Area" : 17.57
+},
+{
+  "State" : "Andhra Pradesh",
+  "District" : "Nellore",
+  "Total Area" : 1307600,
+  "Total Degraded Land area" : 169808,
+  "Percent of Degraded Area" : 12.99
+},
+{
+  "State" : "Andhra Pradesh",
+  "District" : "Total of affected districts",
+  "Total Area" : 4561637,
+  "Total Degraded Land area" : 606945,
+  "Percent of Degraded Area" : 13.31
+},
+{
+  "State" : "Andhra Pradesh",
+  "District" : "State Total",
+  "Total Area" : 16296800,
+  "Total Degraded Land area" : 606945,
+  "Percent of Degraded Area" : 3.72
+},
+{
+  "State" : "Bihar",
+  "District" : "Banka",
+  "Total Area" : 278768,
+  "Total Degraded Land area" : 29294,
+  "Percent of Degraded Area" : 10.51
+},
+{
+  "State" : "Bihar",
+  "District" : "Bhagalpur",
+  "Total Area" : 255822,
+  "Total Degraded Land area" : 32589,
+  "Percent of Degraded Area" : 12.74
+},
+{
+  "State" : "Bihar",
+  "District" : "Gaya",
+  "Total Area" : 473659,
+  "Total Degraded Land area" : 7727,
+  "Percent of Degraded Area" : 1.63
+},
+{
+  "State" : "Bihar",
+  "District" : "Munger",
+  "Total Area" : 634594,
+  "Total Degraded Land area" : 144617,
+  "Percent of Degraded Area" : 22.79
+},
+{
+  "State" : "Bihar",
+  "District" : "Siwan",
+  "Total Area" : 221900,
+  "Total Degraded Land area" : 22611,
+  "Percent of Degraded Area" : 10.19
+},
+{
+  "State" : "Bihar",
+  "District" : "Total of affected districts",
+  "Total Area" : 1864743,
+  "Total Degraded Land area" : 236838,
+  "Percent of Degraded Area" : 12.7
+},
+{
+  "State" : "Bihar",
+  "District" : "State Total",
+  "Total Area" : 9416300,
+  "Total Degraded Land area" : 236838,
+  "Percent of Degraded Area" : 2.52
+},
+{
+  "State" : "Goa",
+  "District" : "North Goa",
+  "Total Area" : 175592,
+  "Total Degraded Land area" : 24634,
+  "Percent of Degraded Area" : 14.03
+},
+{
+  "State" : "Goa",
+  "District" : "South Goa",
+  "Total Area" : 194608,
+  "Total Degraded Land area" : 19639,
+  "Percent of Degraded Area" : 10.09
+},
+{
+  "State" : "Goa",
+  "District" : "Total of affected districts",
+  "Total Area" : 370200,
+  "Total Degraded Land area" : 44273,
+  "Percent of Degraded Area" : 11.96
+},
+{
+  "State" : "Goa",
+  "District" : "State Total",
+  "Total Area" : 370200,
+  "Total Degraded Land area" : 44273,
+  "Percent of Degraded Area" : 11.96
+},
+{
+  "State" : "Gujarat",
+  "District" : "Bharuch",
+  "Total Area" : 776430,
+  "Total Degraded Land area" : 192841,
+  "Percent of Degraded Area" : 24.84
+},
+{
+  "State" : "Gujarat",
+  "District" : "Bhavnagar",
+  "Total Area" : 1115500,
+  "Total Degraded Land area" : 271337,
+  "Percent of Degraded Area" : 24.32
+},
+{
+  "State" : "Gujarat",
+  "District" : "Surat",
+  "Total Area" : 776161,
+  "Total Degraded Land area" : 85469,
+  "Percent of Degraded Area" : 11.01
+},
+{
+  "State" : "Gujarat",
+  "District" : "Total of affected districts",
+  "Total Area" : 2668091,
+  "Total Degraded Land area" : 549647,
+  "Percent of Degraded Area" : 20.6
+},
+{
+  "State" : "Gujarat",
+  "District" : "State Total",
+  "Total Area" : 19624400,
+  "Total Degraded Land area" : 549647,
+  "Percent of Degraded Area" : 2.8
+},
+{
+  "State" : "Himachal Pradesh",
+  "District" : "Chamba",
+  "Total Area" : 671500,
+  "Total Degraded Land area" : 74238,
+  "Percent of Degraded Area" : 11.06
+},
+{
+  "State" : "Himachal Pradesh",
+  "District" : "Kullu",
+  "Total Area" : 566604,
+  "Total Degraded Land area" : 259127,
+  "Percent of Degraded Area" : 45.73
+},
+{
+  "State" : "Himachal Pradesh",
+  "District" : "Total of affected districts",
+  "Total Area" : 1238104,
+  "Total Degraded Land area" : 333365,
+  "Percent of Degraded Area" : 26.93
+},
+{
+  "State" : "Himachal Pradesh",
+  "District" : "State Total",
+  "Total Area" : 5567300,
+  "Total Degraded Land area" : 333365,
+  "Percent of Degraded Area" : 5.99
+},
+{
+  "State" : "Jharkhand",
+  "District" : "East Singhbhum",
+  "Total Area" : 337155,
+  "Total Degraded Land area" : 27783,
+  "Percent of Degraded Area" : 8.24
+},
+{
+  "State" : "Jharkhand",
+  "District" : "Palamau",
+  "Total Area" : 802291,
+  "Total Degraded Land area" : 50363,
+  "Percent of Degraded Area" : 6.28
+},
+{
+  "State" : "Jharkhand",
+  "District" : "Sarailela- Kharsawan",
+  "Total Area" : 272340,
+  "Total Degraded Land area" : 37050,
+  "Percent of Degraded Area" : 13.6
+},
+{
+  "State" : "Jharkhand",
+  "District" : "West Singhbhoom",
+  "Total Area" : 529021,
+  "Total Degraded Land area" : 58539,
+  "Percent of Degraded Area" : 11.07
+},
+{
+  "State" : "Jharkhand",
+  "District" : "Total of affected districts",
+  "Total Area" : 1940807,
+  "Total Degraded Land area" : 173735,
+  "Percent of Degraded Area" : 8.95
+},
+{
+  "State" : "Jharkhand",
+  "District" : "State Total",
+  "Total Area" : 7971600,
+  "Total Degraded Land area" : 173735,
+  "Percent of Degraded Area" : 2.18
+},
+{
+  "State" : "Karnataka",
+  "District" : "Bagalkot",
+  "Total Area" : 658877,
+  "Total Degraded Land area" : 135145,
+  "Percent of Degraded Area" : 20.51
+},
+{
+  "State" : "Karnataka",
+  "District" : "Bijapur",
+  "Total Area" : 1053471,
+  "Total Degraded Land area" : 256010,
+  "Percent of Degraded Area" : 24.3
+},
+{
+  "State" : "Karnataka",
+  "District" : "Chickmagalur",
+  "Total Area" : 722072,
+  "Total Degraded Land area" : 16038,
+  "Percent of Degraded Area" : 2.22
+},
+{
+  "State" : "Karnataka",
+  "District" : "Gulbarga",
+  "Total Area" : 1610208,
+  "Total Degraded Land area" : 313347,
+  "Percent of Degraded Area" : 19.46
+},
+{
+  "State" : "Karnataka",
+  "District" : "Tumkur",
+  "Total Area" : 1055090,
+  "Total Degraded Land area" : 58808,
+  "Percent of Degraded Area" : 5.57
+},
+{
+  "State" : "Karnataka",
+  "District" : "Total of affected districts",
+  "Total Area" : 5099718,
+  "Total Degraded Land area" : 779348,
+  "Percent of Degraded Area" : 15.28
+},
+{
+  "State" : "Karnataka",
+  "District" : "State Total",
+  "Total Area" : 19179100,
+  "Total Degraded Land area" : 779348,
+  "Percent of Degraded Area" : 4.06
+},
+{
+  "State" : "KeraIa",
+  "District" : "Palghat",
+  "Total Area" : 448000,
+  "Total Degraded Land area" : 16204,
+  "Percent of Degraded Area" : 3.62
+},
+{
+  "State" : "KeraIa",
+  "District" : "Total of affected districts",
+  "Total Area" : 448000,
+  "Total Degraded Land area" : 16204,
+  "Percent of Degraded Area" : 3.62
+},
+{
+  "State" : "KeraIa",
+  "District" : "State Total",
+  "Total Area" : 3885200,
+  "Total Degraded Land area" : 16204,
+  "Percent of Degraded Area" : 0.42
+},
+{
+  "State" : "Madhya Pradesh",
+  "District" : "Balaghat",
+  "Total Area" : 924500,
+  "Total Degraded Land area" : 112941,
+  "Percent of Degraded Area" : 12.22
+},
+{
+  "State" : "Madhya Pradesh",
+  "District" : "Chattarpur",
+  "Total Area" : 863120,
+  "Total Degraded Land area" : 191511,
+  "Percent of Degraded Area" : 22.19
+},
+{
+  "State" : "Madhya Pradesh",
+  "District" : "Gwalior",
+  "Total Area" : 456449,
+  "Total Degraded Land area" : 144079,
+  "Percent of Degraded Area" : 31.57
+},
+{
+  "State" : "Madhya Pradesh",
+  "District" : "Jhabua",
+  "Total Area" : 646912,
+  "Total Degraded Land area" : 322601,
+  "Percent of Degraded Area" : 49.87
+},
+{
+  "State" : "Madhya Pradesh",
+  "District" : "Morena",
+  "Total Area" : 1168336,
+  "Total Degraded Land area" : 373553,
+  "Percent of Degraded Area" : 31.97
+},
+{
+  "State" : "Madhya Pradesh",
+  "District" : "Ratlam",
+  "Total Area" : 486007,
+  "Total Degraded Land area" : 160244,
+  "Percent of Degraded Area" : 32.97
+},
+{
+  "State" : "Madhya Pradesh",
+  "District" : "Sidhi",
+  "Total Area" : 1039194,
+  "Total Degraded Land area" : 228736,
+  "Percent of Degraded Area" : 22.01
+},
+{
+  "State" : "Madhya Pradesh",
+  "District" : "Ujjain",
+  "Total Area" : 609874,
+  "Total Degraded Land area" : 129700,
+  "Percent of Degraded Area" : 21.27
+},
+{
+  "State" : "Madhya Pradesh",
+  "District" : "Total of affected districts",
+  "Total Area" : 6194392,
+  "Total Degraded Land area" : 1663365,
+  "Percent of Degraded Area" : 26.85
+},
+{
+  "State" : "Madhya Pradesh",
+  "District" : "State Total",
+  "Total Area" : 30825200,
+  "Total Degraded Land area" : 1663365,
+  "Percent of Degraded Area" : 5.4
+},
+{
+  "State" : "Maharashtra",
+  "District" : "Bhandara",
+  "Total Area" : 934716,
+  "Total Degraded Land area" : 49933,
+  "Percent of Degraded Area" : 5.34
+},
+{
+  "State" : "Maharashtra",
+  "District" : "Nasik",
+  "Total Area" : 1527764,
+  "Total Degraded Land area" : 647462,
+  "Percent of Degraded Area" : 42.38
+},
+{
+  "State" : "Maharashtra",
+  "District" : "Wardha",
+  "Total Area" : 630900,
+  "Total Degraded Land area" : 69308,
+  "Percent of Degraded Area" : 10.99
+},
+{
+  "State" : "Maharashtra",
+  "District" : "Total of affected districts",
+  "Total Area" : 3093380,
+  "Total Degraded Land area" : 766703,
+  "Percent of Degraded Area" : 24.79
+},
+{
+  "State" : "Maharashtra",
+  "District" : "State Total",
+  "Total Area" : 30771300,
+  "Total Degraded Land area" : 766703,
+  "Percent of Degraded Area" : 2.49
+},
+{
+  "State" : "Manipur",
+  "District" : "East Imphal",
+  "Total Area" : 57800,
+  "Total Degraded Land area" : 10238,
+  "Percent of Degraded Area" : 17.71
+},
+{
+  "State" : "Manipur",
+  "District" : "West Imphal",
+  "Total Area" : 51900,
+  "Total Degraded Land area" : 15098,
+  "Percent of Degraded Area" : 29.09
+},
+{
+  "State" : "Manipur",
+  "District" : "Total of affected districts",
+  "Total Area" : 109700,
+  "Total Degraded Land area" : 25336,
+  "Percent of Degraded Area" : 23.1
+},
+{
+  "State" : "Manipur",
+  "District" : "State Total",
+  "Total Area" : 2232700,
+  "Total Degraded Land area" : 25336,
+  "Percent of Degraded Area" : 1.13
+},
+{
+  "State" : "Meghalaya",
+  "District" : "East Garohills",
+  "Total Area" : 260300,
+  "Total Degraded Land area" : 34201,
+  "Percent of Degraded Area" : 13.14
+},
+{
+  "State" : "Meghalaya",
+  "District" : "Jaintia Hills",
+  "Total Area" : 381900,
+  "Total Degraded Land area" : 178666,
+  "Percent of Degraded Area" : 46.78
+},
+{
+  "State" : "Meghalaya",
+  "District" : "South Garohills",
+  "Total Area" : 185700,
+  "Total Degraded Land area" : 8003,
+  "Percent of Degraded Area" : 4.31
+},
+{
+  "State" : "Meghalaya",
+  "District" : "West Garohills",
+  "Total Area" : 370700,
+  "Total Degraded Land area" : 42516,
+  "Percent of Degraded Area" : 11.47
+},
+{
+  "State" : "Meghalaya",
+  "District" : "Total of affected districts",
+  "Total Area" : 1198600,
+  "Total Degraded Land area" : 263386,
+  "Percent of Degraded Area" : 21.97
+},
+{
+  "State" : "Meghalaya",
+  "District" : "State Total",
+  "Total Area" : 2242900,
+  "Total Degraded Land area" : 263386,
+  "Percent of Degraded Area" : 11.74
+},
+{
+  "State" : "Mizoram",
+  "District" : "Aizawl",
+  "Total Area" : 357631,
+  "Total Degraded Land area" : 109184,
+  "Percent of Degraded Area" : 30.53
+},
+{
+  "State" : "Mizoram",
+  "District" : "Champhai",
+  "Total Area" : 318583,
+  "Total Degraded Land area" : 184795,
+  "Percent of Degraded Area" : 58.01
+},
+{
+  "State" : "Mizoram",
+  "District" : "Kolasib",
+  "Total Area" : 138251,
+  "Total Degraded Land area" : 16865,
+  "Percent of Degraded Area" : 12.2
+},
+{
+  "State" : "Mizoram",
+  "District" : "Lawngtlai",
+  "Total Area" : 199119,
+  "Total Degraded Land area" : 95965,
+  "Percent of Degraded Area" : 48.19
+},
+{
+  "State" : "Mizoram",
+  "District" : "Lunglei",
+  "Total Area" : 453800,
+  "Total Degraded Land area" : 59913,
+  "Percent of Degraded Area" : 13.2
+},
+{
+  "State" : "Mizoram",
+  "District" : "Mamit",
+  "Total Area" : 302575,
+  "Total Degraded Land area" : 50986,
+  "Percent of Degraded Area" : 16.85
+},
+{
+  "State" : "Mizoram",
+  "District" : "Saiha",
+  "Total Area" : 196581,
+  "Total Degraded Land area" : 29416,
+  "Percent of Degraded Area" : 14.96
+},
+{
+  "State" : "Mizoram",
+  "District" : "Serchhip",
+  "Total Area" : 142160,
+  "Total Degraded Land area" : 70702,
+  "Percent of Degraded Area" : 49.73
+},
+{
+  "State" : "Mizoram",
+  "District" : "Total of affected districts",
+  "Total Area" : 2108700,
+  "Total Degraded Land area" : 617826,
+  "Percent of Degraded Area" : 29.3
+},
+{
+  "State" : "Mizoram",
+  "District" : "State Total",
+  "Total Area" : 2108700,
+  "Total Degraded Land area" : 617826,
+  "Percent of Degraded Area" : 29.3
+},
+{
+  "State" : "Nagaland",
+  "District" : "Kohima, Phek, Wokha, Zunheboto, Tuensang,Mokokchung, Mon",
+  "Total Area" : 1657900,
+  "Total Degraded Land area" : 441339,
+  "Percent of Degraded Area" : 26.62
+},
+{
+  "State" : "Nagaland",
+  "District" : "Total of affected districts",
+  "Total Area" : 1657900,
+  "Total Degraded Land area" : 441339,
+  "Percent of Degraded Area" : 26.62
+},
+{
+  "State" : "Nagaland",
+  "District" : "State Total",
+  "Total Area" : 1657900,
+  "Total Degraded Land area" : 441339,
+  "Percent of Degraded Area" : 26.62
+},
+{
+  "State" : "Rajasthan",
+  "District" : "Ajmer",
+  "Total Area" : 842388,
+  "Total Degraded Land area" : 398913,
+  "Percent of Degraded Area" : 47.36
+},
+{
+  "State" : "Rajasthan",
+  "District" : "Jhunjhunu",
+  "Total Area" : 591681,
+  "Total Degraded Land area" : 81478,
+  "Percent of Degraded Area" : 13.77
+},
+{
+  "State" : "Rajasthan",
+  "District" : "Nagaur",
+  "Total Area" : 1764504,
+  "Total Degraded Land area" : 361120,
+  "Percent of Degraded Area" : 20.47
+},
+{
+  "State" : "Rajasthan",
+  "District" : "Rajsamand",
+  "Total Area" : 455093,
+  "Total Degraded Land area" : 136908,
+  "Percent of Degraded Area" : 30.08
+},
+{
+  "State" : "Rajasthan",
+  "District" : "Total of affected districts",
+  "Total Area" : 3653666,
+  "Total Degraded Land area" : 978419,
+  "Percent of Degraded Area" : 26.78
+},
+{
+  "State" : "Rajasthan",
+  "District" : "State Total",
+  "Total Area" : 34223900,
+  "Total Degraded Land area" : 978419,
+  "Percent of Degraded Area" : 2.86
+},
+{
+  "State" : "Sikkim",
+  "District" : "East",
+  "Total Area" : 95400,
+  "Total Degraded Land area" : 5922,
+  "Percent of Degraded Area" : 6.21
+},
+{
+  "State" : "Sikkim",
+  "District" : "West ",
+  "Total Area" : 116600,
+  "Total Degraded Land area" : 17274,
+  "Percent of Degraded Area" : 14.81
+},
+{
+  "State" : "Sikkim",
+  "District" : "North",
+  "Total Area" : 422600,
+  "Total Degraded Land area" : 94963,
+  "Percent of Degraded Area" : 22.47
+},
+{
+  "State" : "Sikkim",
+  "District" : "South",
+  "Total Area" : 75000,
+  "Total Degraded Land area" : 5323,
+  "Percent of Degraded Area" : 7.1
+},
+{
+  "State" : "Sikkim",
+  "District" : "Total of affected districts",
+  "Total Area" : 709600,
+  "Total Degraded Land area" : 123482,
+  "Percent of Degraded Area" : 17.4
+},
+{
+  "State" : "Sikkim",
+  "District" : "State Total",
+  "Total Area" : 709600,
+  "Total Degraded Land area" : 123482,
+  "Percent of Degraded Area" : 17.4
+},
+{
+  "State" : "Tamil Nadu",
+  "District" : "Coimbatore",
+  "Total Area" : 746128,
+  "Total Degraded Land area" : 19566,
+  "Percent of Degraded Area" : 2.62
+},
+{
+  "State" : "Tamil Nadu",
+  "District" : "Dharmapuri",
+  "Total Area" : 962247,
+  "Total Degraded Land area" : 194502,
+  "Percent of Degraded Area" : 20.21
+},
+{
+  "State" : "Tamil Nadu",
+  "District" : "Erode",
+  "Total Area" : 825997,
+  "Total Degraded Land area" : 5579,
+  "Percent of Degraded Area" : 0.68
+},
+{
+  "State" : "Tamil Nadu",
+  "District" : "Thirunelveli",
+  "Total Area" : 682308,
+  "Total Degraded Land area" : 36240,
+  "Percent of Degraded Area" : 5.31
+},
+{
+  "State" : "Tamil Nadu",
+  "District" : "Tuticorin",
+  "Total Area" : 459054,
+  "Total Degraded Land area" : 78213,
+  "Percent of Degraded Area" : 17.04
+},
+{
+  "State" : "Tamil Nadu",
+  "District" : "Total of affected districts",
+  "Total Area" : 3675734,
+  "Total Degraded Land area" : 334100,
+  "Percent of Degraded Area" : 9.09
+},
+{
+  "State" : "Tamil Nadu",
+  "District" : "State Total",
+  "Total Area" : 13006000,
+  "Total Degraded Land area" : 334100,
+  "Percent of Degraded Area" : 2.57
+},
+{
+  "State" : "Tripura",
+  "District" : "West ",
+  "Total Area" : 303300,
+  "Total Degraded Land area" : 21385,
+  "Percent of Degraded Area" : 7.05
+},
+{
+  "State" : "Tripura",
+  "District" : "South",
+  "Total Area" : 314000,
+  "Total Degraded Land area" : 33396,
+  "Percent of Degraded Area" : 10.64
+},
+{
+  "State" : "Tripura",
+  "District" : "North",
+  "Total Area" : 210070,
+  "Total Degraded Land area" : 60732,
+  "Percent of Degraded Area" : 28.91
+},
+{
+  "State" : "Tripura",
+  "District" : "Dhalai",
+  "Total Area" : 221230,
+  "Total Degraded Land area" : 47323,
+  "Percent of Degraded Area" : 21.39
+},
+{
+  "State" : "Tripura",
+  "District" : "Total of affected districts",
+  "Total Area" : 1048600,
+  "Total Degraded Land area" : 162836,
+  "Percent of Degraded Area" : 15.53
+},
+{
+  "State" : "Tripura",
+  "District" : "State Total",
+  "Total Area" : 1048600,
+  "Total Degraded Land area" : 162836,
+  "Percent of Degraded Area" : 15.53
+},
+{
+  "State" : "Uttar Pradesh",
+  "District" : "Agra",
+  "Total Area" : 400369,
+  "Total Degraded Land area" : 92650,
+  "Percent of Degraded Area" : 23.14
+},
+{
+  "State" : "Uttar Pradesh",
+  "District" : "Bijnor",
+  "Total Area" : 454057,
+  "Total Degraded Land area" : 37732,
+  "Percent of Degraded Area" : 8.31
+},
+{
+  "State" : "Uttar Pradesh",
+  "District" : "Lalitpur",
+  "Total Area" : 504149,
+  "Total Degraded Land area" : 95450,
+  "Percent of Degraded Area" : 18.93
+},
+{
+  "State" : "Uttar Pradesh",
+  "District" : "Mathura",
+  "Total Area" : 376432,
+  "Total Degraded Land area" : 22975,
+  "Percent of Degraded Area" : 6.1
+},
+{
+  "State" : "Uttar Pradesh",
+  "District" : "Sitapur",
+  "Total Area" : 570633,
+  "Total Degraded Land area" : 88717,
+  "Percent of Degraded Area" : 15.55
+},
+{
+  "State" : "Uttar Pradesh",
+  "District" : "Total of affected districts",
+  "Total Area" : 2305640,
+  "Total Degraded Land area" : 337524,
+  "Percent of Degraded Area" : 14.64
+},
+{
+  "State" : "Uttar Pradesh",
+  "District" : "State Total",
+  "Total Area" : 24092800,
+  "Total Degraded Land area" : 337524,
+  "Percent of Degraded Area" : 1.4
+},
+{
+  "State" : "West Bengal",
+  "District" : "North 24 Pargana",
+  "Total Area" : 378090,
+  "Total Degraded Land area" : 64062,
+  "Percent of Degraded Area" : 16.94
+},
+{
+  "State" : "West Bengal",
+  "District" : "Puruliya",
+  "Total Area" : 625100,
+  "Total Degraded Land area" : 198619,
+  "Percent of Degraded Area" : 31.77
+},
+{
+  "State" : "West Bengal",
+  "District" : "South 24 Paragna",
+  "Total Area" : 966171,
+  "Total Degraded Land area" : 263635,
+  "Percent of Degraded Area" : 27.29
+},
+{
+  "State" : "West Bengal",
+  "District" : "Total of affected districts",
+  "Total Area" : 1969361,
+  "Total Degraded Land area" : 526316,
+  "Percent of Degraded Area" : 26.73
+},
+{
+  "State" : "West Bengal",
+  "District" : "State Total",
+  "Total Area" : 8875200,
+  "Total Degraded Land area" : 526316,
+  "Percent of Degraded Area" : 5.93
+},
+{
+  "State" : "West Bengal",
+  "District" : "State Total",
+  "Total Area" : 45916573,
+  "Total Degraded Land area" : 8853262,
+  "Percent of Degraded Area" : 19.28
+},
+{
+  "State" : "West Bengal",
+  "District" : "State Total",
+  "Total Area" : 328746900,
+  "Total Degraded Land area" : 8853262,
+  "Percent of Degraded Area" : 2.69
+}]

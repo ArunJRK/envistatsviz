@@ -1,9 +1,8 @@
 var map = am4core.create("map", am4maps.MapChart);
 
 map.Geodata = am4geodata_indiaHigh;
-map.geodataSource.url = "Data/map/indiaHigh.json";
+map.geodataSource.url = "Data/map/indiaLow.json";
 map.projection = new am4maps.projections.Mercator();
-
 
 var polygonSeries = new am4maps.MapPolygonSeries();
 polygonSeries.useGeodata = true;
@@ -25,19 +24,26 @@ map.chartContainer.background.events.disableType("doublehit");
 map.maxZoomLevel = 1;
 
 //polygonTemplate.events.
-polygonTemplate.events.on("hit", function(ev) {
+polygonTemplate.events.on(
+  "hit",
+  function(ev) {
     console.log("clicked on ", ev.target.dataItem.dataContext.name);
     name = ev.target.dataItem.dataContext.name;
     console.log(name);
     drawtree();
-    getlinedata ();
-   //document.getElementById('chartdiv').innerHTML="";
-    
-   // $("chartdiv").append("<strong>Rainfall</strong>");
-  //console.log('emptied');
+    getlinedata();
+    $("#Heading")
+      .empty()
+      .html(name);
+    console.log("here");
+    //document.getElementById('chartdiv').innerHTML="";
+
+    // $("chartdiv").append("<strong>Rainfall</strong>");
+    //console.log('emptied');
     //draw();
-}, this);
-   
+  },
+  this
+);
 
 // polygonSeries.MapPolygonSeries.template.events.on("hit", function(ev) {
 //     console.log("clicked on ", ev.target);
