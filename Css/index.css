@@ -21,11 +21,6 @@ body {
 
 #grid{  
   display: grid;
-  padding: 6%;
-  padding-right: 0%;
-  padding-top:1%;
-  padding-bottom: 0%;
-  padding-left: 6%;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 0.3em;
   justify-content: end;
@@ -34,13 +29,9 @@ body {
 
 #gog{
   display: grid;
-  padding: 6%;
-  padding-right: 0%;
-  padding-top:1%;
-  padding-bottom: 0%;
-  padding-left: 6%;
+  margin: 0 6%;
   font-family: "work sans";
-  font-size: 12 px;
+  font-size: 12px;
   grid-gap: 0.3em;
   justify-content: end;
   grid-template-columns: 3fr 1fr;
@@ -75,7 +66,7 @@ h3#charts{
 
 #map{
   z-index:10;
-  /* position: sticky; */
-  top: 0px;
+  position: sticky !important;
+  top: 250px;
   right: 20px;
 }

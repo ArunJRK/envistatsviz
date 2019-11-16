@@ -27,15 +27,17 @@ map.maxZoomLevel = 1;
 polygonTemplate.events.on(
   "hit",
   function(ev) {
-    console.log("clicked on ", ev.target.dataItem.dataContext.name);
+    //console.log("clicked on ", ev.target.dataItem.dataContext.name);
     name = ev.target.dataItem.dataContext.name;
     console.log(name);
     drawtree();
+    drawtree2();
     getlinedata();
+    getline2data();
     $("#Heading")
       .empty()
       .html(name);
-    console.log("here");
+   // console.log("here");
     //document.getElementById('chartdiv').innerHTML="";
 
     // $("chartdiv").append("<strong>Rainfall</strong>");

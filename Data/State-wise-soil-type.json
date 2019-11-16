@@ -1,7 +1,7 @@
 [
     {
         "State": "Andhra Pradesh",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 2432.68
@@ -107,7 +107,7 @@
     },
     {
         "State": "Telangana",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 2432.68
@@ -213,7 +213,7 @@
     },
     {
         "State": "Arunachal Pradesh",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 251.61
@@ -318,7 +318,7 @@
     },
     {
         "State": "Assam",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 1204.68
@@ -423,7 +423,7 @@
     },
     {
         "State": "Bihar (including Jharkhand)",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 9012.82
@@ -528,7 +528,7 @@
     },
     {
         "State": "Delhi",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 94.58
@@ -633,7 +633,7 @@
     },
     {
         "State": "Goa",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 281.98
@@ -738,7 +738,7 @@
     },
     {
         "State": "Gujarat",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 6703.43
@@ -843,7 +843,7 @@
     },
     {
         "State": "Haryana",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 3828.93
@@ -948,7 +948,7 @@
     },
     {
         "State": "Himachal Pradesh",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 1054
@@ -1053,7 +1053,7 @@
     },
     {
         "State": "Jammu & Kashmir",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 11869.76
@@ -1158,7 +1158,7 @@
     },
     {
         "State": "Karnataka",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 1825.54
@@ -1263,7 +1263,7 @@
     },
     {
         "State": "Kerala",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 315.16
@@ -1367,8 +1367,8 @@
         ]
     },
     {
-        "State": "Madhya Pradesh*",
-        "Soil": [
+        "State": "Madhya Pradesh",
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 11867.72
@@ -1473,7 +1473,7 @@
     },
     {
         "State": "Maharashtra",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 8577.24
@@ -1578,7 +1578,7 @@
     },
     {
         "State": "Manipur",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 318.04
@@ -1683,7 +1683,7 @@
     },
     {
         "State": "Meghalaya",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 167.62
@@ -1788,7 +1788,7 @@
     },
     {
         "State": "Mizoram",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 107.3
@@ -1893,7 +1893,7 @@
     },
     {
         "State": "Nagaland",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": null
@@ -1998,7 +1998,7 @@
     },
     {
         "State": "Odisha",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 4527.71
@@ -2103,7 +2103,7 @@
     },
     {
         "State": "Punjab",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 3897.48
@@ -2208,7 +2208,7 @@
     },
     {
         "State": "Rajasthan",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 6992.47
@@ -2313,7 +2313,7 @@
     },
     {
         "State": "Sikkim",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": null
@@ -2418,7 +2418,7 @@
     },
     {
         "State": "Tamil Nadu",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 704.44
@@ -2523,7 +2523,7 @@
     },
     {
         "State": "Tripura",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 243.08
@@ -2628,7 +2628,7 @@
     },
     {
         "State": "Uttar Pradesh *",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 23089.58
@@ -2733,7 +2733,7 @@
     },
     {
         "State": "West Bengal",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 3247.43
@@ -2838,7 +2838,7 @@
     },
     {
         "State": "Andaman & Nicobar Islands",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 197
@@ -2943,7 +2943,7 @@
     },
     {
         "State": "Lakshadweep",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": null
@@ -3048,7 +3048,7 @@
     },
     {
         "State": "Puducherry ",
-        "Soil": [
+        "Data": [
             {
                 "type": "Alluvial",
                 "area": 11.3102
