@@ -1,0 +1,1737 @@
+[{
+    "State": "Andhra Pradesh",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 1168447
+      },
+      {
+        "type": "Water Erosion",
+        "area": 783830
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 4722
+      },
+      {
+        "type": "Salinity",
+        "area": 117239
+      },
+      {
+        "type": "Water Logging",
+        "area": 125755
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 20565
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 20521
+      },
+      {
+        "type": "Settlement",
+        "area": 26649
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 2267728
+      },
+      {
+        "type": "Total Area under",
+        "area": 14.16
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 13476591
+      }
+    ]
+  },
+  {
+    "State": "Arunachal Pradesh",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 107845
+      },
+      {
+        "type": "Water Erosion",
+        "area": 0
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 19072
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 9769
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 136686
+      },
+      {
+        "type": "Total Area under",
+        "area": 1.63
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 8162237
+      }
+    ]
+  },
+  {
+    "State": "Assam",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 322540
+      },
+      {
+        "type": "Water Erosion",
+        "area": 31424
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 193669
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 24583
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 572215
+      },
+      {
+        "type": "Total Area under",
+        "area": 7.3
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 6735134
+      }
+    ]
+  },
+  {
+    "State": "Bihar",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 255073
+      },
+      {
+        "type": "Water Erosion",
+        "area": 304364
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 78450
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 984
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 20669
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 659539
+      },
+      {
+        "type": "Total Area under",
+        "area": 7
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 8527091
+      }
+    ]
+  },
+  {
+    "State": "Chhattisgarh",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 1348122
+      },
+      {
+        "type": "Water Erosion",
+        "area": 770387
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 31972
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 7222
+      },
+      {
+        "type": "Settlement",
+        "area": 18685
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 2176388
+      },
+      {
+        "type": "Total Area under",
+        "area": 16.1
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 11166012
+      }
+    ]
+  },
+  {
+    "State": "Delhi",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 9980
+      },
+      {
+        "type": "Water Erosion",
+        "area": 0
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 347
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 63187
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 73514
+      },
+      {
+        "type": "Total Area under",
+        "area": 49.57
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 73661
+      }
+    ]
+  },
+  {
+    "State": "Goa",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 132301
+      },
+      {
+        "type": "Water Erosion",
+        "area": 33892
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 9003
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 3374
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 7889
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 186458
+      },
+      {
+        "type": "Total Area under",
+        "area": 50.37
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 174991
+      }
+    ]
+  },
+  {
+    "State": "Gujarat",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 2255417
+      },
+      {
+        "type": "Water Erosion",
+        "area": 3788099
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 1179548
+      },
+      {
+        "type": "Salinity",
+        "area": 2643828
+      },
+      {
+        "type": "Water Logging",
+        "area": 3375
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 50524
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 39218
+      },
+      {
+        "type": "Settlement",
+        "area": 117447
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 10077455
+      },
+      {
+        "type": "Total Area under",
+        "area": 51.35
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 8718876
+      }
+    ]
+  },
+  {
+    "State": "Haryana",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 40514
+      },
+      {
+        "type": "Water Erosion",
+        "area": 13568
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 148151
+      },
+      {
+        "type": "Salinity",
+        "area": 27841
+      },
+      {
+        "type": "Water Logging",
+        "area": 8822
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 4894
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 70792
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 314583
+      },
+      {
+        "type": "Total Area under",
+        "area": 7.12
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 4106617
+      }
+    ]
+  },
+  {
+    "State": "Himachal Pradesh",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 1582938
+      },
+      {
+        "type": "Water Erosion",
+        "area": 233990
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 322417
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 656
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 1365
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 2141366
+      },
+      {
+        "type": "Total Area under",
+        "area": 38.46
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 3376690
+      }
+    ]
+  },
+  {
+    "State": "Jammu and Kashmir",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 1907187
+      },
+      {
+        "type": "Water Erosion",
+        "area": 110222
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 1650577
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 46548
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 2750257
+      },
+      {
+        "type": "Mass Movement",
+        "area": 843554
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 218679
+      },
+      {
+        "type": "Settlement",
+        "area": 11790
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 7538814
+      },
+      {
+        "type": "Total Area under",
+        "area": 33.92
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 14455333
+      }
+    ]
+  },
+  {
+    "State": "Jharkhand",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 1307162
+      },
+      {
+        "type": "Water Erosion",
+        "area": 4037261
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 49730
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 24503
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 5418657
+      },
+      {
+        "type": "Total Area under",
+        "area": 67.97
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 2469577
+      }
+    ]
+  },
+  {
+    "State": "Karnataka",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 1704569
+      },
+      {
+        "type": "Water Erosion",
+        "area": 5059629
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 2159
+      },
+      {
+        "type": "Salinity",
+        "area": 86582
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 18704
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 2887
+      },
+      {
+        "type": "Settlement",
+        "area": 66413
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 6940943
+      },
+      {
+        "type": "Total Area under",
+        "area": 36.19
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 11994157
+      }
+    ]
+  },
+  {
+    "State": "Kerala",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 328638
+      },
+      {
+        "type": "Water Erosion",
+        "area": 0
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 12906
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 28968
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 370512
+      },
+      {
+        "type": "Total Area under",
+        "area": 9.54
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 3464358
+      }
+    ]
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 2514983
+      },
+      {
+        "type": "Water Erosion",
+        "area": 1120221
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 7788
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 16024
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 30457
+      },
+      {
+        "type": "Settlement",
+        "area": 82379
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 3771853
+      },
+      {
+        "type": "Total Area under",
+        "area": 12.24
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 26648676
+      }
+    ]
+  },
+  {
+    "State": "Maharashtra",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 4890778
+      },
+      {
+        "type": "Water Erosion",
+        "area": 7622800
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 30054
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 19912
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 509789
+      },
+      {
+        "type": "Settlement",
+        "area": 275272
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 13348604
+      },
+      {
+        "type": "Total Area under",
+        "area": 43.38
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 16873660
+      }
+    ]
+  },
+  {
+    "State": "Manipur",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 574706
+      },
+      {
+        "type": "Water Erosion",
+        "area": 8070
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 5026
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 5290
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 593093
+      },
+      {
+        "type": "Total Area under",
+        "area": 26.56
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 1622844
+      }
+    ]
+  },
+  {
+    "State": "Meghalaya",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 414659
+      },
+      {
+        "type": "Water Erosion",
+        "area": 54046
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 5881
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 4239
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 478825
+      },
+      {
+        "type": "Total Area under",
+        "area": 21.35
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 1762634
+      }
+    ]
+  },
+  {
+    "State": "Mizoram",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 81854
+      },
+      {
+        "type": "Water Erosion",
+        "area": 7444
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 6575
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 95873
+      },
+      {
+        "type": "Total Area under",
+        "area": 4.55
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 1998679
+      }
+    ]
+  },
+  {
+    "State": "Nagaland",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 637957
+      },
+      {
+        "type": "Water Erosion",
+        "area": 0
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 4347
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 642304
+      },
+      {
+        "type": "Total Area under",
+        "area": 38.74
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 1013937
+      }
+    ]
+  },
+  {
+    "State": "Odisha",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 752929
+      },
+      {
+        "type": "Water Erosion",
+        "area": 4442556
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 36439
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 51445
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 5053
+      },
+      {
+        "type": "Settlement",
+        "area": 33481
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 5321903
+      },
+      {
+        "type": "Total Area under",
+        "area": 34.18
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 9741425
+      }
+    ]
+  },
+  {
+    "State": "Punjab",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 18705
+      },
+      {
+        "type": "Water Erosion",
+        "area": 1897
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 652
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 71861
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 93115
+      },
+      {
+        "type": "Total Area under",
+        "area": 1.85
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 4901242
+      }
+    ]
+  },
+  {
+    "State": "Rajasthan",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 2596003
+      },
+      {
+        "type": "Water Erosion",
+        "area": 2116082
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 15332054
+      },
+      {
+        "type": "Salinity",
+        "area": 365666
+      },
+      {
+        "type": "Water Logging",
+        "area": 18421
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 50865
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 1047818
+      },
+      {
+        "type": "Settlement",
+        "area": 98696
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 21625604
+      },
+      {
+        "type": "Total Area under",
+        "area": 63.19
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 12448140
+      }
+    ]
+  },
+  {
+    "State": "Sikkim",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 74205
+      },
+      {
+        "type": "Water Erosion",
+        "area": 0
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 3730
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 546
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 78482
+      },
+      {
+        "type": "Total Area under",
+        "area": 11.06
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 630500
+      }
+    ]
+  },
+  {
+    "State": "Tamil Nadu",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 1368330
+      },
+      {
+        "type": "Water Erosion",
+        "area": 6411
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 30429
+      },
+      {
+        "type": "Salinity",
+        "area": 9878
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 13965
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 515
+      },
+      {
+        "type": "Settlement",
+        "area": 87133
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 1516660
+      },
+      {
+        "type": "Total Area under",
+        "area": 11.66
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 11371500
+      }
+    ]
+  },
+  {
+    "State": "Telangana",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 538533
+      },
+      {
+        "type": "Water Erosion",
+        "area": 2951871
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 81917
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 14592
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 1979
+      },
+      {
+        "type": "Settlement",
+        "area": 69591
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 3658482
+      },
+      {
+        "type": "Total Area under",
+        "area": 31.86
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 7631019
+      }
+    ]
+  },
+  {
+    "State": "Tripura",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 125058
+      },
+      {
+        "type": "Water Erosion",
+        "area": 189533
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 12711
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 327302
+      },
+      {
+        "type": "Total Area under",
+        "area": 31.21
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 716717
+      }
+    ]
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 414176
+      },
+      {
+        "type": "Water Erosion",
+        "area": 610989
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 636202
+      },
+      {
+        "type": "Water Logging",
+        "area": 33907
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 4028
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 135962
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 1835263
+      },
+      {
+        "type": "Total Area under",
+        "area": 7.62
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 21831845
+      }
+    ]
+  },
+  {
+    "State": "Uttarakhand",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 545610
+      },
+      {
+        "type": "Water Erosion",
+        "area": 11943
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 0
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 13786
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 0
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 9903
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 581241
+      },
+      {
+        "type": "Total Area under",
+        "area": 10.87
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 4738936
+      }
+    ]
+  },
+  {
+    "State": "West Bengal",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 264325
+      },
+      {
+        "type": "Water Erosion",
+        "area": 1299542
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 0
+      },
+      {
+        "type": "Salinity",
+        "area": 0
+      },
+      {
+        "type": "Water Logging",
+        "area": 13261
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 0
+      },
+      {
+        "type": "Mass Movement",
+        "area": 0
+      },
+      {
+        "type": "Manmade",
+        "area": 14112
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 0
+      },
+      {
+        "type": "Settlement",
+        "area": 90941
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 1682181
+      },
+      {
+        "type": "Total Area under",
+        "area": 18.95
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 6926022
+      }
+    ]
+  },
+  {
+    "State": "Total",
+    "Data": [{
+        "type": "Vegetation Degradation",
+        "area": 28283544
+      },
+      {
+        "type": "Water Erosion",
+        "area": 35610069
+      },
+      {
+        "type": "Wind Erosion",
+        "area": 18347639
+      },
+      {
+        "type": "Salinity",
+        "area": 3999206
+      },
+      {
+        "type": "Water Logging",
+        "area": 599597
+      },
+      {
+        "type": "Frost Shattering",
+        "area": 3109262
+      },
+      {
+        "type": "Mass Movement",
+        "area": 843554
+      },
+      {
+        "type": "Manmade",
+        "area": 366998
+      },
+      {
+        "type": "Barren/Rocky",
+        "area": 1884137
+      },
+      {
+        "type": "Settlement",
+        "area": 1481638
+      },
+      {
+        "type": "Total Area under Desertification",
+        "area": 94525643
+      },
+      {
+        "type": "Total Area under",
+        "area": 28.76
+      },
+      {
+        "type": "No Apparent Degradation",
+        "area": 227759103
+      }
+    ]
+  }
+]

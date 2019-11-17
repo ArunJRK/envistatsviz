@@ -1,0 +1,17 @@
+    {
+      "State" : {{jsonize(cells["State Name"].value)}},
+      "Data" : [
+      {"type": "Vegetation Degradation" , "area" : {{jsonize(cells["Vegetation Degradation"].value)}}},
+      {"type":"Water Erosion" , "area": {{jsonize(cells["Water Erosion"].value)}}},
+      {"type":"Wind Erosion" , "area": {{jsonize(cells["Wind Erosion"].value)}}},
+      {"type":"Salinity" , "area": {{jsonize(cells["Salinity"].value)}}},
+      {"type":"Water Logging" , "area": {{jsonize(cells["Water Logging"].value)}}},
+      {"type":"Frost Shattering" , "area": {{jsonize(cells["Frost Shattering"].value)}}},
+      {"type":"Mass Movement" , "area": {{jsonize(cells["Mass Movement"].value)}}},
+      {"type":"Manmade" , "area": {{jsonize(cells["Manmade"].value)}}},
+     {"type": "Barren/Rocky" , "area": {{jsonize(cells["Barren/Rocky"].value)}}},
+     {"type": "Settlement" , "area": {{jsonize(cells["Settlement"].value)}}},
+     {"type": "Total Area under Desertification" , "area": {{jsonize(cells["Total Area under Desertification"].value)}}},
+    {"type":  "Total Area under" , "area": {{jsonize(cells["Total Area under"].value)}}},
+    {"type":  "No Apparent Degradation" , "area": {{jsonize(cells["No Apparent Degradation"].value)}}}
+   ] }
