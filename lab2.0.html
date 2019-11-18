@@ -1,51 +1,59 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>amCharts V4 Example - simple-line-chart</title>
-    <link rel="stylesheet" href="Css/index.css" />
-    <script src="Scripts/jquery-3.4.1.min.js"></script>
-  </head>
-  <body>
-    <div id="Heading">States</div>
-      
-    <div id="gog">
-      <div id="grid">
-          <div class="breaker">
-              <h3 id="charts">Rainfall</h3>
-              <p>Actual and normal rainfall</p>
-            </div>
-        <div id="actualrain"></div>
 
-        <div id="normalrain"></div>
-        <div></div>
-        <div class="breaker">
-          <h3 id="charts">Land Degradation</h3>
-          <p>Land degradation</p>
-        </div>
-        <div id="soiltype"></div>
-        <div id="degradedland"></div>
-        <div></div>
-        <div id="degradationtype"></div>
-        
+<head>
+  <meta charset="UTF-8" />
+  <title>amCharts V4 Example - simple-line-chart</title>
+  <link rel="stylesheet" href="Css/index.css" />
+  <script src="Scripts/jquery-3.4.1.min.js"></script>
+</head>
+
+<body>
+  <div id="Heading">States</div>
+
+  <div id="gog">
+    <div id="grid">
+      <div class="breaker">
+        <h3 id="charts">Rainfall</h3>
+        <p>Actual and normal rainfall</p>
       </div>
-      <div id="map">
-    </div>
-      
-    </div><br>
-    <div style="height:500px; width: 200px"></div>
-    <script>
-      var name = "Kerala";
-    </script>
-    <script src="Scripts/core.js"></script>
-    <script src="Scripts/charts.js"></script>
-    <script src="Scripts/maps.js"></script>
-    <script src="Scripts/animated.js"></script>
-    <scipts src="Scripts/apple.js"></scipts>
-    <script src="Scripts/line.js"></script>
+      <div id="actualrain"></div>
 
-    <script src="https://www.amcharts.com/lib/4/geodata/indiaHigh.js"></script>
-    <script src="Scripts/treemap.js"></script>
-    <script src="Scripts/controlmap.js"></script>
-  </body>
+      <div id="normalrain"></div>
+      <div></div>
+      <div class="breaker">
+        <h3 id="charts">Land</h3>
+        <p>Land degradation</p>
+      </div>
+      <div id="soiltype"></div>
+      <div>
+        <div id="description">
+          <h3>Major districts</h3><br>Majorly degraded districts
+          </div>
+        <div id="degradedland"></div>
+      </div>
+      <div></div>
+      <div id="degradationtype"></div>
+
+    </div>
+    <div id="map">
+    </div>
+
+  </div><br>
+  <div style="height:500px; width: 200px"></div>
+  <script>
+    var name = "Kerala";
+  </script>
+  <script src="Scripts/core.js"></script>
+  <script src="Scripts/charts.js"></script>
+  <script src="Scripts/maps.js"></script>
+  <script src="Scripts/animated.js"></script>
+  <scipts src="Scripts/apple.js"></scipts>
+  <script src="Scripts/line.js"></script>
+
+  <script src="https://www.amcharts.com/lib/4/geodata/indiaHigh.js"></script>
+  <script src="Scripts/treemap.js"></script>
+  <script src="Scripts/controlmap.js"></script>
+</body>
+
 </html>

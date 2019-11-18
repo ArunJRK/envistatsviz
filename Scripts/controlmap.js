@@ -34,6 +34,7 @@ polygonTemplate.events.on(
     drawtree2();
     getlinedata();
     getline2data();
+    treedata3();
     $("#Heading")
       .empty()
       .html(name);

@@ -21,10 +21,8 @@ function sorter(data) {
 }
 
 function getlinedata() {
-  var subdata;
-  subdata = sorter(actualraindata);
   actualrain.invalidateData();
-  actualrain.data = subdata;
+  actualrain.data = sorter(actualraindata);
 }
 
 drawline();
@@ -107,9 +105,8 @@ $.getJSON("Data/normalrain.json", function(data) {
 });
 
 function getline2data() {
-  var subdata = sorter(normalraindata);
   normalrain.invalidateData();
-  normalrain.data = subdata;
+  normalrain.data = sorter(normalraindata);
 }
 
 drawline2();
