@@ -1,2 +1,13 @@
+
+Desertification is the continuous degradation of land under the influence of natural and anthropological causes in arid, semi-arid and dry-sub humid conditions. Desertification affects two third countries of the world and one third of the earth’s surface, on which one billion people live (one sixth of world’s population). The processes of desertification and land degradation are observed to have accelerated during recent years. As per United Nations Convention for Combating Desertification (UNCCD), Desertification is defined as “land degradation in arid, semiarid and dry sub-humid areas resulting from various factors including climatic variations and human activities” (UNCCD, 1994). Here ‘‘land’’ means the terrestrial bio-productive system’’ and “land degradation” means “reduction or loss of biological or economic productivity and complexity of rainfed cropland, irrigated cropland, or range, pasture, forest and woodlands resulting from land uses or from a process or combination of processes, including processes arising from human activities and habitation patterns, such as:
+ Soil erosion caused by wind and/or water;
+ Deterioration of the physical, chemical and biological or economic properties of soil; and
+ Long term loss of natural vegetation (UNCCD, 1994)
+Over 25 per cent of India’s land area is undergoing desertification. Of the 30 states, 26 recorded an increase in the area under desertification between 2003-05 and 2011-13
+
+
+The status of land degradation and desertification in India has been assessed by several organizations, providing a range of disparate estimates. As per a 2016 study carried out by Space Applications Centre, India has a total geographic area (TGA) of 328.72 million ha, out of which the total area undergoing the process of land degradation is estimated at 96.4 million hectares, which constitutes 29.32 percentage of India’s total land area. There has been an increase of 1.87mha undergoing land degradation/desertification between 2011-13 and 2003-05. During this period 1.95mha has been reclaimed and 0.44 mha converted from high severity to low severity. At the same time, 3.63 mha of productive land has degraded and 0.74 mha has shifted from low to high severity degradation status. During this period, the states showing increases in degradation are Delhi, Tripura, Nagaland, Himachal Pradesh and Mizoram (11.03-4.34%) whereas Odisha, Rajasthan, Telengana, and Uttar Pradesh have improved their degradation status (-0.11 to -1.27%).
+
+
 Effects
 decreased food security, exacerbated environmental degradation, enhanced migration and slowed poverty reduction

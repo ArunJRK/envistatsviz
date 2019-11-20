@@ -27,18 +27,35 @@ function sort(data, d) {
     if (!data[i].State.localeCompare(name)) {
       temp = data[i].Data;
       for (var j = 0; j < temp.length - d; j++) {
-        sorter.push(temp[j])
+        sorter.push(temp[j]);
       }
       break;
     }
   }
- console.log(sorter);
+ //console.log(sorter);
   return sorter;
 }
 
+function bullet(template){
+var bullet =  template.push(new am4charts.LabelBullet());
+  bullet.locationX = 0.5;
+  bullet.locationY = 0.5;
+  bullet.label.text = "{name}";
+  bullet.label.fontSize = 12;
+  bullet.label.fill = am4core.color("#ffffff");
+  return bullet;
+}
+
+function treedata1(){
+  var deletion = 1;
+  soiltype.invalidateData();
+  soiltype.data = sort(soilmaindata, deletion);
+}
+
 function drawtree() {
-  var soilchartdata = sort(soilmaindata, 1);
-  soiltype.data = soilchartdata;
+ treedata1();
+  soiltype.zoomable=false;
+  //soiltype.homeText = "Soil Types";
   soiltype.dataFields.value = "area";
   soiltype.dataFields.name = "type";
 
@@ -46,23 +63,18 @@ function drawtree() {
   var level1 = soiltype.seriesTemplates.create("0");
   var level1_column = level1.columns.template;
 
-  level1_column.column.cornerRadius(10, 10, 10, 10);
+  level1_column.column.cornerRadius(0);
   level1_column.fillOpacity = 0.8;
   level1_column.stroke = am4core.color("#fff");
-  level1_column.strokeWidth = 5;
+  level1_column.strokeWidth = 3;
   level1_column.strokeOpacity = 1;
-  soilchartdata = [];
+ //soilchartdata = [];
  // console.log(soilchartdata);
 
-  var level1seriestemplate = soiltype.seriesTemplates.create("1");
+  var level1seriestemplate = soiltype.seriesTemplates.create("0");
   level1seriestemplate.columns.template.fillOpacity = 1;
 
-  var bullet1 = level1seriestemplate.bullets.push(new am4charts.LabelBullet());
-  bullet1.locationX = 0.5;
-  bullet1.locationY = 0.5;
-  bullet1.label.text = "{name}";
-  bullet1.label.fill = am4core.color("#ffffff");
-
+  var bullet1 = bullet(level1seriestemplate.bullets);
 }
 
 //Chart 2
@@ -80,24 +92,31 @@ $.getJSON("Data/sw-degradedland.json", function (data) {
   drawtree2();
 });
 
-function drawtree2() {
-  var treechartdata = [];
-  var deletion = 2;
-  treechartdata = sort(degradeglanddata, deletion);
-  degradedland.data = treechartdata;
 
+function treedata2(){
+  var deletion = 2;
+  degradedland.invalidateData();
+  degradedland.data = sort(degradeglanddata, deletion);
+}
+
+function drawtree2() {
+  treedata2();
+  degradedland.zoomable = false;
+  //degradedland.navigationBar = new am4charts.NavigationBar();
+ // degradedland.homeText = "Majorly Degraded Districts";
   degradedland.dataFields.value = "Totaldegradedarea";
   degradedland.dataFields.name = "District";
 
   //Defining the anatomy of soiltype
   var level1 = degradedland.seriesTemplates.create("0");
   var level1_column = level1.columns.template;
-  level1_column.column.cornerRadius(10, 10, 10, 10);
+  level1_column.column.cornerRadius(0);
   level1_column.fillOpacity = 0.8;
   level1_column.stroke = am4core.color("#fff");
   level1_column.strokeWidth = 5;
   level1_column.strokeOpacity = 1;
   //console.log("drewdegradedland");
+  var bullet1 = bullet(level1.bullets);
 }
 
 
@@ -117,6 +136,7 @@ function treedata3(){
   degradationtype.invalidateData();
   degradationtype.data = sort(degradationtypedata,0);
 }
+
 function drawtree3() {
   treedata3();
   // only one level visible initially
@@ -125,10 +145,10 @@ function drawtree3() {
   degradationtype.dataFields.value = "area";
   degradationtype.dataFields.name = "State";
   degradationtype.dataFields.children = "Data";
-  degradationtype.homeText = "Degradation By type";
+//  degradationtype.homeText = "Degradation By type";
 
   // enable navigation
-  degradationtype.navigationBar = new am4charts.NavigationBar();
+ // degradationtype.navigationBar = new am4charts.NavigationBar();
 
   // level 0 series template
   var level0SeriesTemplate = degradationtype.seriesTemplates.create("0");
@@ -147,6 +167,7 @@ function drawtree3() {
   bullet0.label.text = "{name}";
   bullet0.label.fill = am4core.color("#ffffff");
   bullet0.label.border = am4core.color("seagreen");
+  
   // create hover state
   var columnTemplate = level0SeriesTemplate.columns.template;
   var hoverState = columnTemplate.states.create("hover");
@@ -181,7 +202,7 @@ function drawtree3() {
 
   var bullet1 = level1SeriesTemplate.bullets.push(new am4charts.LabelBullet());
   bullet1.locationX = 0.5;
-  bullet1.locationY = 0.5;
+  bullet1.locationY = 0.6;
   bullet1.label.text = "{name}";
   bullet1.label.fill = am4core.color("#ffffff");
 

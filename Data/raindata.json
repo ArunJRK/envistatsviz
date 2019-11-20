@@ -1,0 +1,1381 @@
+[{
+        "State": "Arunachal Pradesh",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "2042.9",
+                "Normal": "2933.7"
+            },
+            {
+                "Year": "2014",
+                "Actual": "2403.2",
+                "Normal": "2933.7"
+            }, {
+                "Year": "2015",
+                "Actual": "2593.2",
+                "Normal": "2933.7"
+            }, {
+                "Year": "2016",
+                "Actual": "2706.9",
+                "Normal": "2933.7"
+            }, {
+                "Year": "2017",
+                "Actual": "1583.5",
+                "Normal": "1768.0"
+            }, {
+                "Year": "2018",
+                "Actual": "1198.4",
+                "Normal": "1768.0"
+            }
+        ]
+    },
+    {
+        "State": "Assam",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1811.5",
+                "Normal": "2624.9"
+            },
+            {
+                "Year": "2014",
+                "Actual": "2171.9",
+                "Normal": "2624.9"
+            }, {
+                "Year": "2015",
+                "Actual": "2509.4",
+                "Normal": "2624.9"
+            }, {
+                "Year": "2016",
+                "Actual": "2266.9",
+                "Normal": "2624.9"
+            }, {
+                "Year": "2017",
+                "Actual": "1742.7",
+                "Normal": "1792.8"
+            }, {
+                "Year": "2018",
+                "Actual": "1322.9",
+                "Normal": "1792.8"
+            }
+        ]
+    },
+    {
+        "State": "Meghalaya",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1811.5",
+                "Normal": "2624.9"
+            },
+            {
+                "Year": "2014",
+                "Actual": "2171.9",
+                "Normal": "2624.9"
+            }, {
+                "Year": "2015",
+                "Actual": "2509.4",
+                "Normal": "2624.9"
+            }, {
+                "Year": "2016",
+                "Actual": "2266.9",
+                "Normal": "2624.9"
+            }, {
+                "Year": "2017",
+                "Actual": "1742.7",
+                "Normal": "1792.8"
+            }, {
+                "Year": "2018",
+                "Actual": "1322.9",
+                "Normal": "1792.8"
+            }
+        ]
+    },
+    {
+        "State": "Bihar",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1069.9",
+                "Normal": "1205.6"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1061.0",
+                "Normal": "1205.6"
+            }, {
+                "Year": "2015",
+                "Actual": "874.0",
+                "Normal": "1205.6"
+            }, {
+                "Year": "2016",
+                "Actual": "1158.0",
+                "Normal": "1205.6"
+            }, {
+                "Year": "2017",
+                "Actual": "936.8",
+                "Normal": "1027.6"
+            }, {
+                "Year": "2018",
+                "Actual": "770.8",
+                "Normal": "1027.6"
+            }
+        ]
+    },
+    {
+        "State": "West Bengal ",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1804.7",
+                "Normal": "1527.2"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1241.7",
+                "Normal": "1527.2"
+            }, {
+                "Year": "2015",
+                "Actual": "1507.7",
+                "Normal": "1527.2"
+            }, {
+                "Year": "2016",
+                "Actual": "1427.0",
+                "Normal": "1527.2"
+            }, {
+                "Year": "2017",
+                "Actual": "1138.9",
+                "Normal": "1167.9"
+            }, {
+                "Year": "2018",
+                "Actual": "936.8",
+                "Normal": "1167.9"
+            }
+        ]
+    },
+    {
+        "State": "Jharkhand",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1253.6",
+                "Normal": "1296.3"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1156.6",
+                "Normal": "1296.3"
+            }, {
+                "Year": "2015",
+                "Actual": "1085.6",
+                "Normal": "1296.3"
+            }, {
+                "Year": "2016",
+                "Actual": "1264.0",
+                "Normal": "1296.3"
+            }, {
+                "Year": "2017",
+                "Actual": "988.2",
+                "Normal": "1091.9"
+            }, {
+                "Year": "2018",
+                "Actual": "784.3",
+                "Normal": "1091.9"
+            }
+        ]
+    },
+    {
+        "State": "Nagaland",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1557.2",
+                "Normal": "2278.0"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1599.9",
+                "Normal": "2278"
+            }, {
+                "Year": "2015",
+                "Actual": "1947.4",
+                "Normal": "2278.0"
+            }, {
+                "Year": "2016",
+                "Actual": "1956.4",
+                "Normal": "2278.0"
+            }, {
+                "Year": "2017",
+                "Actual": "1829.8",
+                "Normal": "1496.9"
+            }, {
+                "Year": "2018",
+                "Actual": "1258.4",
+                "Normal": "1496.9"
+            }
+        ]
+    },
+    {
+        "State": "Mizoram",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1557.2",
+                "Normal": "2278.0"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1599.9",
+                "Normal": "2278"
+            }, {
+                "Year": "2015",
+                "Actual": "1947.4",
+                "Normal": "2278.0"
+            }, {
+                "Year": "2016",
+                "Actual": "1956.4",
+                "Normal": "2278.0"
+            }, {
+                "Year": "2017",
+                "Actual": "1829.8",
+                "Normal": "1496.9"
+            }, {
+                "Year": "2018",
+                "Actual": "1258.4",
+                "Normal": "1496.9"
+            }
+        ]
+    },
+    {
+        "State": "Manipur",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1557.2",
+                "Normal": "2278.0"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1599.9",
+                "Normal": "2278"
+            }, {
+                "Year": "2015",
+                "Actual": "1947.4",
+                "Normal": "2278.0"
+            }, {
+                "Year": "2016",
+                "Actual": "1956.4",
+                "Normal": "2278.0"
+            }, {
+                "Year": "2017",
+                "Actual": "1829.8",
+                "Normal": "1496.9"
+            }, {
+                "Year": "2018",
+                "Actual": "1258.4",
+                "Normal": "1496.9"
+            }
+        ]
+    },
+    {
+        "State": "Tripura",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1557.2",
+                "Normal": "2278.0"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1599.9",
+                "Normal": "2278"
+            }, {
+                "Year": "2015",
+                "Actual": "1947.4",
+                "Normal": "2278.0"
+            }, {
+                "Year": "2016",
+                "Actual": "1956.4",
+                "Normal": "2278.0"
+            }, {
+                "Year": "2017",
+                "Actual": "1829.8",
+                "Normal": "1496.9"
+            }, {
+                "Year": "2018",
+                "Actual": "1258.4",
+                "Normal": "1496.9"
+            }
+        ]
+    },
+    {
+        "State": "Sikkim",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "2406.1",
+                "Normal": "2708.9"
+            },
+            {
+                "Year": "2014",
+                "Actual": "2322.6",
+                "Normal": "2708.9"
+            }, {
+                "Year": "2015",
+                "Actual": "2501.7",
+                "Normal": "2708.9"
+            }, {
+                "Year": "2016",
+                "Actual": "2624.8",
+                "Normal": "2708.9"
+            }, {
+                "Year": "2017",
+                "Actual": "2047.3",
+                "Normal": "2006.2"
+            }, {
+                "Year": "2018",
+                "Actual": "1740.6",
+                "Normal": "2006.2"
+            }
+        ]
+    },
+    {
+        "State": "Haryana",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "461.3",
+                "Normal": "562.8"
+            },
+            {
+                "Year": "2014",
+                "Actual": "305.6",
+                "Normal": "562.8"
+            }, {
+                "Year": "2015",
+                "Actual": "437.8",
+                "Normal": "562.8"
+            }, {
+                "Year": "2016",
+                "Actual": "398.7",
+                "Normal": "562.8"
+            }, {
+                "Year": "2017",
+                "Actual": "359.4",
+                "Normal": "466.3"
+            }, {
+                "Year": "2018",
+                "Actual": "423.1",
+                "Normal": "466.3"
+            }
+        ]
+    },
+    {
+        "State": "Delhi",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "461.3",
+                "Normal": "562.8"
+            },
+            {
+                "Year": "2014",
+                "Actual": "305.6",
+                "Normal": "562.8"
+            }, {
+                "Year": "2015",
+                "Actual": "437.8",
+                "Normal": "562.8"
+            }, {
+                "Year": "2016",
+                "Actual": "398.7",
+                "Normal": "562.8"
+            }, {
+                "Year": "2017",
+                "Actual": "359.4",
+                "Normal": "466.3"
+            }, {
+                "Year": "2018",
+                "Actual": "423.1",
+                "Normal": "466.3"
+            }
+        ]
+    },
+    {
+        "State": "Chandigarh",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "461.3",
+                "Normal": "562.8"
+            },
+            {
+                "Year": "2014",
+                "Actual": "305.6",
+                "Normal": "562.8"
+            }, {
+                "Year": "2015",
+                "Actual": "437.8",
+                "Normal": "562.8"
+            }, {
+                "Year": "2016",
+                "Actual": "398.7",
+                "Normal": "562.8"
+            }, {
+                "Year": "2017",
+                "Actual": "359.4",
+                "Normal": "466.3"
+            }, {
+                "Year": "2018",
+                "Actual": "423.1",
+                "Normal": "466.3"
+            }
+        ]
+    },
+    {
+        "State": "Himachal Pradesh",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1216.9",
+                "Normal": "1373.9"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1019.9",
+                "Normal": "1373.9"
+            }, {
+                "Year": "2015",
+                "Actual": "1223.2",
+                "Normal": "1373.9"
+            }, {
+                "Year": "2016",
+                "Actual": "444.0",
+                "Normal": "1373.9"
+            }, {
+                "Year": "2017",
+                "Actual": "715.7",
+                "Normal": "825.3"
+            }, {
+                "Year": "2018",
+                "Actual": "917.3",
+                "Normal": "825.3"
+            }
+        ]
+    },
+    {
+        "State": "Jammu and Kashmir",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1193.8",
+                "Normal": "1205.3"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1278.4",
+                "Normal": "1205.3"
+            }, {
+                "Year": "2015",
+                "Actual": "1572.6",
+                "Normal": "1205.3"
+            }, {
+                "Year": "2016",
+                "Actual": "902.8",
+                "Normal": "1205.3"
+            }, {
+                "Year": "2017",
+                "Actual": "543.9",
+                "Normal": "534.6"
+            }, {
+                "Year": "2018",
+                "Actual": "597.3",
+                "Normal": "534.6"
+            }
+        ]
+    },
+    {
+        "State": "Punjab",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "586.6",
+                "Normal": "635.9"
+            },
+            {
+                "Year": "2014",
+                "Actual": "382.7",
+                "Normal": "635.9"
+            }, {
+                "Year": "2015",
+                "Actual": "512.6",
+                "Normal": "635.9"
+            }, {
+                "Year": "2016",
+                "Actual": "398.7",
+                "Normal": "635.9"
+            }, {
+                "Year": "2017",
+                "Actual": "390.1",
+                "Normal": "491.9"
+            }, {
+                "Year": "2018",
+                "Actual": "527.4",
+                "Normal": "491.9"
+            }
+        ]
+    },
+    {
+        "State": "West Uttar Pradesh",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "925.9",
+                "Normal": "886.2"
+            },
+            {
+                "Year": "2014",
+                "Actual": "487.0",
+                "Normal": "886.2"
+            }, {
+                "Year": "2015",
+                "Actual": "586.4",
+                "Normal": "886.2"
+            }, {
+                "Year": "2016",
+                "Actual": "692.8",
+                "Normal": "886.2"
+            }, {
+                "Year": "2017",
+                "Actual": "365.9",
+                "Normal": "263.2"
+            }, {
+                "Year": "2018",
+                "Actual": "774.7",
+                "Normal": "769.4"
+            }
+        ]
+    },
+    {
+        "State": "Uttar Pradesh",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "984",
+                "Normal": "952.4"
+            },
+            {
+                "Year": "2014",
+                "Actual": "594.2",
+                "Normal": "952.4"
+            }, {
+                "Year": "2015",
+                "Actual": "595",
+                "Normal": "952.4"
+            }, {
+                "Year": "2016",
+                "Actual": "782.25",
+                "Normal": "952.4"
+            }, {
+                "Year": "2017",
+                "Actual": "507.95",
+                "Normal": "580.4"
+            }, {
+                "Year": "2018",
+                "Actual": "766.35",
+                "Normal": "833.5"
+            }
+        ]
+    },
+    {
+        "State": "Uttarakhand",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1735.4",
+                "Normal": "1580.9"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1287.4",
+                "Normal": "1580.9"
+            }, {
+                "Year": "2015",
+                "Actual": "1247.6",
+                "Normal": "1580.9"
+            }, {
+                "Year": "2016",
+                "Actual": "1308.0",
+                "Normal": "1580.9"
+            }, {
+                "Year": "2017",
+                "Actual": "1199.0",
+                "Normal": "1229.1"
+            }, {
+                "Year": "2018",
+                "Actual": "1194.3",
+                "Normal": "1229.1"
+            }
+        ]
+    },
+    {
+        "State": "West Rajasthan ",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "389.4",
+                "Normal": "299.3"
+            },
+            {
+                "Year": "2014",
+                "Actual": "302.4",
+                "Normal": "299.2"
+            }, {
+                "Year": "2015",
+                "Actual": "458.6",
+                "Normal": "299.2"
+            }, {
+                "Year": "2016",
+                "Actual": "247.0",
+                "Normal": "299.2"
+            }, {
+                "Year": "2017",
+                "Actual": "536.5",
+                "Normal": "769.4"
+            }, {
+                "Year": "2018",
+                "Actual": "201.7",
+                "Normal": "263.2"
+            }
+        ]
+    },
+    {
+        "State": "Rajasthan",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "612.15",
+                "Normal": "485.3"
+            },
+            {
+                "Year": "2014",
+                "Actual": "492.7",
+                "Normal": "485.25"
+            }, {
+                "Year": "2015",
+                "Actual": "554.6",
+                "Normal": "485.25"
+            }, {
+                "Year": "2016",
+                "Actual": "553.8",
+                "Normal": "485.25"
+            }, {
+                "Year": "2017",
+                "Actual": "551.7",
+                "Normal": "692.6"
+            }, {
+                "Year": "2018",
+                "Actual": "418.5",
+                "Normal": "439.5"
+            }
+        ]
+    },
+    {
+        "State": "Odisha",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1632.4",
+                "Normal": "1460.5"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1536.9",
+                "Normal": "1460.5"
+            }, {
+                "Year": "2015",
+                "Actual": "1210.1",
+                "Normal": "1460.5"
+            }, {
+                "Year": "2016",
+                "Actual": "1253.5",
+                "Normal": "1460.5"
+            }, {
+                "Year": "2017",
+                "Actual": "1053.1",
+                "Normal": "1149.9"
+            }, {
+                "Year": "2018",
+                "Actual": "1290.2",
+                "Normal": "1149.9"
+            }
+        ]
+    },
+    {
+        "State": "West Madhya Pradesh ",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1396.3",
+                "Normal": "956.3"
+            },
+            {
+                "Year": "2014",
+                "Actual": "864.9",
+                "Normal": "956.3"
+            }, {
+                "Year": "2015",
+                "Actual": "1045.4",
+                "Normal": "956.3"
+            }, {
+                "Year": "2016",
+                "Actual": "1098.0",
+                "Normal": "956.3"
+            }, {
+                "Year": "2017",
+                "Actual": "738.0",
+                "Normal": "876.1"
+            }, {
+                "Year": "2018",
+                "Actual": "837.6",
+                "Normal": "876.1"
+            }
+        ]
+    },
+    {
+        "State": "Madhya Pradesh",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1459.1",
+                "Normal": "1062.85"
+            },
+            {
+                "Year": "2014",
+                "Actual": "894.5",
+                "Normal": "1062.85"
+            }, {
+                "Year": "2015",
+                "Actual": "994.45",
+                "Normal": "1062.85"
+            }, {
+                "Year": "2016",
+                "Actual": "1219",
+                "Normal": "1062.85"
+            }, {
+                "Year": "2017",
+                "Actual": "766.9",
+                "Normal": "963.65"
+            }, {
+                "Year": "2018",
+                "Actual": "878.45",
+                "Normal": "963.65"
+            }
+        ]
+    },
+    {
+        "State": "Gujarat Region",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1250.5",
+                "Normal": "943.4"
+            },
+            {
+                "Year": "2014",
+                "Actual": "792.2",
+                "Normal": "943.4"
+            }, {
+                "Year": "2015",
+                "Actual": "677.6",
+                "Normal": "943.4"
+            }, {
+                "Year": "2016",
+                "Actual": "764.9",
+                "Normal": "956.9"
+            }, {
+                "Year": "2017",
+                "Actual": "997.7",
+                "Normal": "914.7"
+            }, {
+                "Year": "2018",
+                "Actual": "696.1",
+                "Normal": "914.7"
+            }
+        ]
+    },
+    {
+        "State": "Saurashtra, Kutch",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "823.9",
+                "Normal": "507.0"
+            },
+            {
+                "Year": "2014",
+                "Actual": "467.8",
+                "Normal": "507.0"
+            }, {
+                "Year": "2015",
+                "Actual": "516.1",
+                "Normal": "507.0"
+            }, {
+                "Year": "2016",
+                "Actual": "482.9",
+                "Normal": "511.3"
+            }, {
+                "Year": "2017",
+                "Actual": "645.8",
+                "Normal": "477.5"
+            }, {
+                "Year": "2018",
+                "Actual": "316.0",
+                "Normal": "477.5"
+            }
+        ]
+    },
+    {
+        "State": "Gujarat",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1037.2",
+                "Normal": "725.2"
+            },
+            {
+                "Year": "2014",
+                "Actual": "630.0",
+                "Normal": "725.2"
+            }, {
+                "Year": "2015",
+                "Actual": "596.9",
+                "Normal": "725.2"
+            }, {
+                "Year": "2016",
+                "Actual": "623.9",
+                "Normal": "734.1"
+            }, {
+                "Year": "2017",
+                "Actual": "821.8",
+                "Normal": "696.1"
+            }, {
+                "Year": "2018",
+                "Actual": "506.1",
+                "Normal": "696.1"
+            }
+        ]
+    },
+    {
+        "State": "Madhya Maharashtra",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "962.4",
+                "Normal": "876.8"
+            },
+            {
+                "Year": "2014",
+                "Actual": "838.0",
+                "Normal": "876.8"
+            }, {
+                "Year": "2015",
+                "Actual": "629.5",
+                "Normal": "876.8"
+            }, {
+                "Year": "2016",
+                "Actual": "906.3",
+                "Normal": "876.8"
+            }, {
+                "Year": "2017",
+                "Actual": "852.3",
+                "Normal": "729.3"
+            }, {
+                "Year": "2018",
+                "Actual": "665.4",
+                "Normal": "729.3"
+            }
+        ]
+    },
+    {
+        "State": "Marathwada",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "888",
+                "Normal": "821.6"
+            },
+            {
+                "Year": "2014",
+                "Actual": "548.9",
+                "Normal": "821.6"
+            }, {
+                "Year": "2015",
+                "Actual": "532.8",
+                "Normal": "821.6"
+            }, {
+                "Year": "2016",
+                "Actual": "949.0",
+                "Normal": "821.6"
+            }, {
+                "Year": "2017",
+                "Actual": "642.1",
+                "Normal": "682.9"
+            }, {
+                "Year": "2018",
+                "Actual": "534.6",
+                "Normal": "682.9"
+            }
+        ]
+    },
+    {
+        "State": "Vidarbha",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1520",
+                "Normal": "1084.5"
+            },
+            {
+                "Year": "2014",
+                "Actual": "919.2",
+                "Normal": "1084.5"
+            }, {
+                "Year": "2015",
+                "Actual": "993.7",
+                "Normal": "1084.5"
+            }, {
+                "Year": "2016",
+                "Actual": "1163.0",
+                "Normal": "1084.5"
+            }, {
+                "Year": "2017",
+                "Actual": "731.5",
+                "Normal": "954.6"
+            }, {
+                "Year": "2018",
+                "Actual": "875.4",
+                "Normal": "954.6"
+            }
+        ]
+    },
+    {
+        "State": "Maharashtra",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1123.466667",
+                "Normal": "927.6333333"
+            },
+            {
+                "Year": "2014",
+                "Actual": "768.7",
+                "Normal": "927.6333333"
+            }, {
+                "Year": "2015",
+                "Actual": "718.6666667",
+                "Normal": "927.6333333"
+            }, {
+                "Year": "2016",
+                "Actual": "1006.1",
+                "Normal": "927.6333333"
+            }, {
+                "Year": "2017",
+                "Actual": "741.9666667",
+                "Normal": "788.9333333"
+            }, {
+                "Year": "2018",
+                "Actual": "691.8",
+                "Normal": "788.9333333"
+            }
+        ]
+    },
+    {
+        "State": "Chhattisgarh",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1418.3",
+                "Normal": "1290.7"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1274.7",
+                "Normal": "1290.7"
+            }, {
+                "Year": "2015",
+                "Actual": "1136.0",
+                "Normal": "1290.7"
+            }, {
+                "Year": "2016",
+                "Actual": "1315.8",
+                "Normal": "1298.9"
+            }, {
+                "Year": "2017",
+                "Actual": "1041.2",
+                "Normal": "1153.3"
+            }, {
+                "Year": "2018",
+                "Actual": "1101.5",
+                "Normal": "1153.3"
+            }
+        ]
+    },
+    {
+        "State": "Andaman & Nicobar  Islands",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "3757.8",
+                "Normal": "2926.3"
+            },
+            {
+                "Year": "2014",
+                "Actual": "2622.4",
+                "Normal": "2926.3"
+            }, {
+                "Year": "2015",
+                "Actual": "2904.4",
+                "Normal": "2926.3"
+            }, {
+                "Year": "2016",
+                "Actual": "2851.9",
+                "Normal": "2926.3"
+            }, {
+                "Year": "2017",
+                "Actual": "1526.0",
+                "Normal": "1682.5"
+            }, {
+                "Year": "2018",
+                "Actual": "1569.2",
+                "Normal": "1682.5"
+            }
+        ]
+    },
+    {
+        "State": "Andhra Pradesh Coastal",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1081.8",
+                "Normal": "1024.2"
+            },
+            {
+                "Year": "2014",
+                "Actual": "777.4",
+                "Normal": "1024.2"
+            }, {
+                "Year": "2015",
+                "Actual": "987.9",
+                "Normal": "1024.2"
+            }, {
+                "Year": "2016",
+                "Actual": "908.9",
+                "Normal": "1024.2"
+            }, {
+                "Year": "2017",
+                "Actual": "668.8",
+                "Normal": "581.1"
+            }, {
+                "Year": "2018",
+                "Actual": "581.1",
+                "Normal": "581.1"
+            }
+        ]
+    },
+    {
+        "State": "Rayalaseema",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "677.2",
+                "Normal": "706.1"
+            },
+            {
+                "Year": "2014",
+                "Actual": "523.4",
+                "Normal": "706.1"
+            }, {
+                "Year": "2015",
+                "Actual": "875.6",
+                "Normal": "706.1"
+            }, {
+                "Year": "2016",
+                "Actual": "555.4",
+                "Normal": "706.1"
+            }, {
+                "Year": "2017",
+                "Actual": "507.2",
+                "Normal": "398.3"
+            }, {
+                "Year": "2018",
+                "Actual": "252.6",
+                "Normal": "398.3"
+            }
+        ]
+    },
+    {
+        "State": "Andhra Pradesh",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "879.5",
+                "Normal": "865.15"
+            },
+            {
+                "Year": "2014",
+                "Actual": "650.4",
+                "Normal": "865.15"
+            }, {
+                "Year": "2015",
+                "Actual": "931.75",
+                "Normal": "865.15"
+            }, {
+                "Year": "2016",
+                "Actual": "732.15",
+                "Normal": "865.15"
+            }, {
+                "Year": "2017",
+                "Actual": "588",
+                "Normal": "489.7"
+            }, {
+                "Year": "2018",
+                "Actual": "416.85",
+                "Normal": "489.7"
+            }
+        ]
+    },
+    {
+        "State": "Telangana",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1272.1",
+                "Normal": "942.6"
+            },
+            {
+                "Year": "2014",
+                "Actual": "685.6",
+                "Normal": "942.6"
+            }, {
+                "Year": "2015",
+                "Actual": "747.9",
+                "Normal": "942.6"
+            }, {
+                "Year": "2016",
+                "Actual": "1043.4",
+                "Normal": "942.6"
+            }, {
+                "Year": "2017",
+                "Actual": "664.9",
+                "Normal": "755.2"
+            }, {
+                "Year": "2018",
+                "Actual": "741.1",
+                "Normal": "759.2"
+            }
+        ]
+    },
+    {
+        "State": "Tamil Nadu",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "741.9",
+                "Normal": "914.4"
+            },
+            {
+                "Year": "2014",
+                "Actual": "913.2",
+                "Normal": "914.4"
+            }, {
+                "Year": "2015",
+                "Actual": "1204.5",
+                "Normal": "914.4"
+            }, {
+                "Year": "2016",
+                "Actual": "535.0",
+                "Normal": "914.4"
+            }, {
+                "Year": "2017",
+                "Actual": "414.6",
+                "Normal": "317.2"
+            }, {
+                "Year": "2018",
+                "Actual": "290.7",
+                "Normal": "317.2"
+            }
+        ]
+    },
+    {
+        "State": "Coastal Karnataka",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "4044.6",
+                "Normal": "3526.3"
+            },
+            {
+                "Year": "2014",
+                "Actual": "3563.9",
+                "Normal": "3526.3"
+            }, {
+                "Year": "2015",
+                "Actual": "2757.3",
+                "Normal": "3526.3"
+            }, {
+                "Year": "2016",
+                "Actual": "2619.7",
+                "Normal": "3526.3"
+            }, {
+                "Year": "2017",
+                "Actual": "2593.2",
+                "Normal": "3083.8"
+            }, {
+                "Year": "2018",
+                "Actual": "3060.2",
+                "Normal": "3083.8"
+            }
+        ]
+    },
+    {
+        "State": "North Interior Karnataka",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "723.2",
+                "Normal": "740.3"
+            },
+            {
+                "Year": "2014",
+                "Actual": "756.8",
+                "Normal": "740.3"
+            }, {
+                "Year": "2015",
+                "Actual": "549.9",
+                "Normal": "740.3"
+            }, {
+                "Year": "2016",
+                "Actual": "625.0",
+                "Normal": "740.3"
+            }, {
+                "Year": "2017",
+                "Actual": "520.5",
+                "Normal": "506.0"
+            }, {
+                "Year": "2018",
+                "Actual": "358.0",
+                "Normal": "506.0"
+            }
+        ]
+    },
+    {
+        "State": "South Interior Karnataka",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1110.7",
+                "Normal": "1019.2"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1184.1",
+                "Normal": "1019.2"
+            }, {
+                "Year": "2015",
+                "Actual": "1083.8",
+                "Normal": "1019.2"
+            }, {
+                "Year": "2016",
+                "Actual": "687.3",
+                "Normal": "1019.2"
+            }, {
+                "Year": "2017",
+                "Actual": "665.2",
+                "Normal": "660.0"
+            }, {
+                "Year": "2018",
+                "Actual": "686.7",
+                "Normal": "660.0"
+            }
+        ]
+    },
+    {
+        "State": "Karnataka",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1959.5",
+                "Normal": "1761.933333"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1834.933333",
+                "Normal": "1761.933333"
+            }, {
+                "Year": "2015",
+                "Actual": "1463.666667",
+                "Normal": "1761.933333"
+            }, {
+                "Year": "2016",
+                "Actual": "1310.666667",
+                "Normal": "1761.933333"
+            }, {
+                "Year": "2017",
+                "Actual": "1259.633333",
+                "Normal": "1416.6"
+            }, {
+                "Year": "2018",
+                "Actual": "1368.3",
+                "Normal": "1416.6"
+            }
+        ]
+    },
+    {
+        "State": "Kerala",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "3255.4",
+                "Normal": "2923.4"
+            },
+            {
+                "Year": "2014",
+                "Actual": "3046.4",
+                "Normal": "2924.3"
+            }, {
+                "Year": "2015",
+                "Actual": "2602.9",
+                "Normal": "2924.3"
+            }, {
+                "Year": "2016",
+                "Actual": "1870.9",
+                "Normal": "2924.3"
+            }, {
+                "Year": "2017",
+                "Actual": "1856.5",
+                "Normal": "2039.6"
+            }, {
+                "Year": "2018",
+                "Actual": "2517.3",
+                "Normal": "2039.6"
+            }
+        ]
+    },
+    {
+        "State": "Lakshadweep  ",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "1426.3",
+                "Normal": "1600.0"
+            },
+            {
+                "Year": "2014",
+                "Actual": "1395.0",
+                "Normal": "1600"
+            }, {
+                "Year": "2015",
+                "Actual": "1640.0",
+                "Normal": "1600.0"
+            }, {
+                "Year": "2016",
+                "Actual": "1065.7",
+                "Normal": "1600.0"
+            }, {
+                "Year": "2017",
+                "Actual": "1108.3",
+                "Normal": "998.5"
+            }, {
+                "Year": "2018",
+                "Actual": "553.2",
+                "Normal": "998.5"
+            }
+        ]
+    },
+    {
+        "State": "Goa",
+        "Data": [{
+                "Year": "2013",
+                "Actual": "3684.9",
+                "Normal": "3100.5"
+            },
+            {
+                "Year": "2014",
+                "Actual": "2913.2",
+                "Normal": "3100.2"
+            }, {
+                "Year": "2015",
+                "Actual": "2191.5",
+                "Normal": "3100.2"
+            }, {
+                "Year": "2016",
+                "Actual": "3663.9",
+                "Normal": "3101.1"
+            }, {
+                "Year": "2017",
+                "Actual": "3213.8",
+                "Normal": "2914.7"
+            }, {
+                "Year": "2018",
+                "Actual": "2883.4",
+                "Normal": "2914.7"
+            }
+        ]
+    }
+]
