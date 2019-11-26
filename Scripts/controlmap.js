@@ -1,7 +1,7 @@
 var map = am4core.create("map", am4maps.MapChart);
 
 map.Geodata = am4geodata_indiaHigh;
-map.geodataSource.url = "Data/map/indiaLow.json";
+map.geodataSource.url = "Data/map/indiaHigh.json";
 map.projection = new am4maps.projections.Mercator();
 
 var polygonSeries = new am4maps.MapPolygonSeries();

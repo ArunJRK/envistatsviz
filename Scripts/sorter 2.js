@@ -89,4 +89,4 @@ function sorter() {
         outputarray.push(finalarrayobj(inputarray[i].State, degradedarr, nodegradearr, partlydegradedarr));
     }
     console.log(JSON.stringify(outputarray));
-}
+}   
