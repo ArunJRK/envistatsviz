@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<html>
-
 <head>
   <meta charset="UTF-8" />
   <title>amCharts V4 Example - simple-line-chart</title>
@@ -9,9 +7,74 @@
 </head>
 
 <body>
-  <div id="Heading">States</div>
+  <div id="Heading">India, Land Degradation and other factors.</div>
+  <div class="content" id="introduciton">
+    
+    <strong>Degradation</strong><br>
+    Land degradation is the temporary or permanent lowering of the productive capacity of land.
+    Desertification is the continuous degradation of land under the influence
+    of natural and anthropological causes in arid,
+    semi-arid and dry-sub humid conditions. Desertification affects
+    two third countries of the world and one third of the earth’s
+    surface, on which one billion people live (one sixth of world’s population).
+    <img src="Images/dryland.jpg" style="display:relative; float:right; margin:40px -100px 30px 30px">
+   <br><br> The main causes of land degradation are - Deforestation, overgrazing leading to a reduced growth of vegetation, reduced diversity of plant species, excessive growth of unwanted plant species, soil erosion, and degradation of land due to cattle movement, excessive use of fertilizers and pesticides, Industrialization, and Urbanization.
+   <br><br>
+    <blockquote>25 per cent of India’s land area is undergoing desertification.</blockquote><br>
+<!--     <span class="firstcharacter"></span> -->
+    Of the 30
+    states, 26 recorded an increase in the area under desertification between 2003-05 and 2011-13
 
-  <div id="gog">
+
+    The status of land degradation and desertification in India has been assessed by several organizations, providing a
+    range of disparate estimates. As per a 2016 study carried out by Space Applications Centre, India has a total
+    geographic area (TGA) of 328.72 million ha, out of which the total area undergoing the process of land degradation
+    is estimated at 96.4 million hectares, which constitutes 29.32 percentage of India’s total land area.
+    <br><br>
+    <blockquote>
+       India lost 48.8 billion USD or 2.5% in FY14 due to Land Degradation
+  </blockquote>The effects include
+  decreased food security, exacerbated environmental degradation, enhanced migration and slowed poverty reduction. 
+  </div>
+
+  <div id="vizcontainer">
+    <div id="vizarea">
+      <div id="description" style="grid-column: 1/3;">
+        <span><strong>Degradation By Type</strong></span> (Hectare)
+      </div>
+      <div id="description">
+        <span><strong>Soil Type</strong></span> (Hectare)
+      </div>
+      
+
+      <div id="degradationtype"></div>
+      <div id="soiltype"></div>
+      <div id="description">
+          <span><strong>Actual and Normal Rainfall</strong></span> (mm)
+        </div>
+        <div></div>
+        <div id="description">
+            <span><strong>Majorly Degraded Districts</strong></span> (Hectare
+)          </div>
+      <div id="actualrain"></div>
+      <div id="degradedland"></div>
+
+    </div>
+    <div id="controlarea">
+    <mark style="text-align:center">Click a state to view it's data</mark>
+      <div id="control">
+
+        <div id="map">
+
+        </div>
+        <div id="selection"></div>
+        <div id="controldes">
+          </div>
+      </div>
+    </div>
+  </div>
+  <!-- </div>
+      <div id="gog">
     <div id="grid">
       <div class="breaker">
         <h3 id="charts">Rainfall</h3>
@@ -19,7 +82,7 @@
       </div>
       <div id="actualrain"></div>
 
-      <div id="normalrain"></div>
+      <div id=""></div>
       <div></div>
       <div class="breaker">
         <h3 id="charts">Land</h3>
@@ -35,15 +98,99 @@
       <div></div>
       <div id="degradationtype"></div>
 
-    </div>
+    </div><div><div id="control">
+      
     <div id="map">
-    </div>
+    
+    </div><div id="selection"></div></div></div>
 
-  </div><br>
-  <div style="height:500px; width: 200px"></div>
+  </div><br> -->
+
+
+  <div class="contentdown" id="infobox">
+    <h3>Tamil Nadu</h3>
+    Location
+    Tamil Nadu is situated between 8°05 ¢ to 13°34 ¢ N latitudes and 76°14 ¢ to
+
+    80°21¢ E longitudes. It covers 13.0 M ha. It is bounded by Karnataka in the north-
+    Degraded and Wastelands Status in Different areas • 129
+
+
+
+
+    west, Andhra Pradesh in the north, Puducherry and Bay of Bengal in the east, Indian Ocean in the south and Kerala in
+    the west and south-west.
+    <h3>Physiography</h3>
+    The state has been divided into Deccan plateau, Hill ranges and Coastal plains. These are further subdivided into
+    ten landforms: South Deccan plateau, Eastern Ghats (South), Tamil Nadu uplands, Nilgiris, South Sahyadri, Marine
+    landform, Riverine landform, Laterite landform, Inland plains, and Kerala plains.
+
+    The South Deccan plateau covers about 130 km2 in the north-western corner of Dharmapuri district. The Eastern Ghats
+    (South) are dissected into isolated hill ranges, running generally north-east-south-west through the northern parts
+    of North Arcot, Ambedkar, Dharmapuri and Periyar. Elevation ranges from 1,100 to 1,600 m above msl. This landform
+    includes Bargur, Kolli, Kalrayan, Shervaroy and Javadi hills.
+    <h3>Geology</h3>
+    Strategraphic succession of rocks occurring in Tamil Nadu shows the Archaean group as the oldest followed by
+    Mesozoic, Tertiary and Quaternary formations. The Archaean group includes gneisses, charnockites, khondalites and
+    schists. The Mesozoic rocks of Tamil Nadu occur in isolated patches along the eastern coast. The Miocene rocks are
+    (tertiary group) closely associated and are continuous with the Cretaceous rocks of the state. The Pleistocene and
+    recent formations (Quartery group) are laterites and alluvium of marine and riverine origin.
+    <h3>Climate</h3>
+    It is semi-arid tropical monsoonic with an annual rainfall ranging from 550 mm in the plains to 2,400 mm in the
+    hills. Rainfall is received in three distinct seasons—namely south-west monsoon (June to September), north-east
+    monsoon (October to December), and summer and hot weather season (April to May). Major portion of the rainfall is
+    received during the north-east monsoon. Climatic data have shown that potential evapotranspiration exceeds rainfall
+    in most of the areas excepting Nilgiris and Kodaikanal.
+    <h3>Natural Vegetation</h3>
+    The vegetation of the state comprises tropical wet evergreen and semi- evergreen (50%), tropical moist deciduous
+    (33%) and tropical dry deciduous (2%) forests, grasslands (2%) and forest plantations (13%).
+    The tropical evergreen forests consist of black dammar (Canarium strictum),
+    locally known as kunthirikkam; ironwood tree (Mesua ferrea) or churuli; gurjun tree (Dipterocarpus indicus) or vella
+    ayani; poonspar tree (Calophylloum elatum) or kattu punna; wild durian (Cullenia excels) or vedipla; Indian
+    guttarpercha tree (Palaquium ellipticum) or pali; white dammar or Indian copal tree (Vateria indica) or payini. Many
+    species of bamboo are also found.
+    Moist deciduous types consist of teak (Tectona grandis), sain tree (Terminalia tomentosa) or kari-marudu; kindal
+    tree (Terminalia paniculata) or vellamarudu; Indian rosewood (Dalbergia latifolia) or weeti; white teak
+    (Lagerstroemia lanceolata) or venthekku ;pyinkado tree (Xylia xylocarpa) or irul, and Malabar kino tree (Pterocarpus
+    marsupium) or venga.
+    Soils
+    The soils are classified into 6 orders (Entisols, Inceptisols, Alfisols, Mollisols, Ultisols and Vertisols), 12
+    suborders, 20 great groups, 44 subgroups and 94 soil families. Of the total area of the state, about 50% is covered
+    by Inceptisols, 30% by Alfisols, 7% by Vertisols, 6% by Entisols, 1% by Ultisols, and negligible area by Mollisols
+  
+    <h3>Land Use</h3>
+    Hilly areas have major portion under forests and natural vegetation cover, and the plains are intensively
+    cultivated. Natural vegetation consists of evergreen, dry deciduous and shrub types. Cultivable lands account for
+    about and forests about 16% of the TGA. Paddy is grown in large areas, followed by groundnut, sugarcane, cotton, pulses
+    and other crops.
+    Degraded and Wastelands
+    Degraded and wastelands area of the state totals to 2,997 thousand ha, which is about 23% of TGA. The worst affected
+    districts are Coimbatore (602 thousand ha), Dindigul (258 thousand ha), Viluppuram (228 thousand ha), Chidambaranar
+    (179 thousand ha), Kamarajar (173 thousand ha), Teni (171 thousand ha) and Periyar (158 thousand ha) (Fig. 39; Table
+    40).
+
+    Water erosion, major causative factor for land degradation, has affected 2,134 thousand ha (about 16% of TGA);
+    Coimbatore is worst affected with an area of 472 thousand ha.
+    Acidic soils cover 427 thousand ha (4% of TGA), and districts affected in order are Coimbatore (126 thousand ha),
+    followed by Dindigul (107 thousand ha), Nilgiris (97 thousand ha) and Teni (58 thousand ha).
+    Sodic soils occupy an area of 352 thousand ha (3% of TGA) with highest area in Viluppuram (194 thousand ha),
+    followed by Triunelveli (40 thousand ha), Chengalpattu (22 thousand ha) and Chidambaranar (21 thousand ha). Saline
+    soils are found in Chidambaranar (7 thousand ha) and Nagappattinam (6 thousand ha).
+
+  </div>
+  <div class="content" style="padding: 100px 0">
+    There has been
+    an increase of 1.87mha undergoing land degradation/desertification between 2011-13 and 2003-05. During this period
+    1.95mha has been reclaimed and 0.44 mha converted from high severity to low severity. At the same time, 3.63 mha of
+    productive land has degraded and 0.74 mha has shifted from low to high severity degradation status. During this
+    period, the states showing increases in degradation are Delhi, Tripura, Nagaland, Himachal Pradesh and Mizoram
+    (11.03-4.34%) whereas Odisha, Rajasthan, Telengana, and Uttar Pradesh have improved their degradation status (-0.11
+    to -1.27%).</div>
   <script>
-    var name = "Kerala";
-  </script>
+    var name = "Tamil Nadu";
+    $("#selection").empty().html("<mark>" + name + "</mark>");
+   //$("#infobox").empty().html(infobox.infobox);
+ </script>
   <script src="Scripts/core.js"></script>
   <script src="Scripts/charts.js"></script>
   <script src="Scripts/maps.js"></script>
@@ -53,6 +200,8 @@
 
   <script src="https://www.amcharts.com/lib/4/geodata/indiaHigh.js"></script>
   <script src="Scripts/treemap.js"></script>
+  
+  <script src="Scripts/textdata.js"></script>
   <script src="Scripts/controlmap.js"></script>
 </body>
 

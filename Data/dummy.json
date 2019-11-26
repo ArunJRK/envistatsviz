@@ -1,0 +1,25 @@
+{
+    "State" : {{jsonize(cells["State"].value)}},
+    "Data"  :[
+{   "year" : "2013",
+    "Actual" : {{jsonize(cells["Actual  2013"].value)}},
+    "Normal" : {{jsonize(cells["Normal 2013"].value)}}
+},
+{    "year" : "2014",
+    "Actual" : {{jsonize(cells["Actual 2014"].value)}},
+    "Normal" : {{jsonize(cells["Normal  2014"].value)}}
+},{    "year" : "2015",
+    "Actual" : {{jsonize(cells["Actual 2015"].value)}},
+    "Normal" : {{jsonize(cells["Normal  2015"].value)}}
+    },{ "year" : "2016",
+    "Actual" : {{jsonize(cells["Actual 2016"].value)}},
+    "Normal" : {{jsonize(cells["Normal  2016"].value)}}
+    },{"year" : "2017",
+    "Actual" : {{jsonize(cells["Actual 2017"].value)}},
+    "Normal" : {{jsonize(cells["Normal  2017"].value)}}
+    },{"year" : "2018"
+    "Actual" : {{jsonize(cells["Actual 2018"].value)}},
+    "Normal" : {{jsonize(cells["Normal  2018"].value)}}
+  }
+    ]
+}

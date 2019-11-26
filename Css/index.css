@@ -1,27 +1,47 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, "work sans", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  background-color: #ffffff;
-  /* overflow: hidden; */
+  background-color: rgba(240, 239, 230, 0.452);
   margin: 0;
   }
-  #map {
-    width: 200px;
-    height: 200px;
-    background-color: rgba(245, 245, 245, 0.322);
-    padding: 30px;
-    box-shadow: 0px 0px 3px 0px rgba(161,161,161,0.5);
-    position: sticky !important;
-    top:50vh;
-    transition-duration: 1s;
-   }
+  
 #Heading{
+  height:70vh;
   font-family: "work sans", sans-serif;
   font-weight: 700;
   font-size:  72px;
-  width: 100vw;
+  width: 600px;
+  margin: 0 auto;
+  padding-top:300px;
   text-align: center;
+  overflow:hidden;
+ }
+
+.content{
+  width: 50vw;
+  margin: 0 20vw 100px 20vw;
+  line-height: 36px;
+  font-size:18px;
+  text-align:justify;
 }
 
+blockquote{
+  font-size:36px;
+  font-family: "georgia";
+  font-weight:400;
+  font-style:italic;
+  line-height:50px;
+  padding-left:20px;
+  text-align:left;
+}
+.contentdown{
+  width: 50vw;
+  margin:auto;
+  padding: 100px 30vw 100px 20vw;
+  line-height: 30px;
+  font-size:18px;
+  text-align:justify;
+  background-color:white;
+}
 #grid{  
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -41,6 +61,41 @@ body {
   align-items: normal;
 }
 
+#vizcontainer{
+  display: grid;
+  margin: 0;
+  padding: 0 5% 0 5%;
+  width: 90vw;
+  grid-gap: 0.5em;
+  justify-content: left;
+  grid-template-columns: 66vw 22vw;
+  /*   align-items: center; */
+  background: #fff;
+  overflow:hidden;
+}
+
+#controlarea{
+  padding-top:60px;
+  width:350px;
+}
+
+#control {
+
+    width:300px;
+    height: auto;
+    background-color: rgba(245, 245, 245, 0.322);
+    padding: 15px;
+    box-shadow: 0px 0px 3px 0px rgba(161,161,161,0.5);
+/*     position: sticky !important; */
+/*     top:50vh; */
+    transition-duration: 1s;
+    align-items:top;
+   }
+
+   #map{
+     width:300px;
+     height:300px;
+   }
 h3#charts{
   font-size: 24px;
   font-weight: 500;
@@ -55,37 +110,88 @@ h3#charts{
   height: fit-content;
 }
 
-#actualrain, #normalrain {
-  width: 340px;
-  height: 300px;
-  background: #f2fde4;
+#actualrain {
+  width: 100%;
+  height: 340px;
+  grid-column: 1/3;
+/*   background: rgba(0,200,255,0.15); */
 
 }
+
 
 #soiltype, #degradedland {
-  width: 340px;
-  height: 300px;
+  width: 100%;
+  height: 340px;
 }
 #degradationtype{
-  width: 680px;
-  height: 400px;
+  width: 100%;
+  height: 340px;
   grid-column: 1/3;
 }
 
-#map:hover{
-  transform: scale(1.8);
+/* #control:hover{
+  transform: scale(1.3);
   transition-duration: 1s;  
   background: rgba(0,0,0,0);
   box-shadow:none;
       
-}
+} */
 
 div#description{
   font-family: "work sans";
-  height: 100px;
+  line-height: 14px;
   font-size: 12px;
   overflow: hidden;
-  padding: 10px 50px;
-  background: #e7e7e723;
-  margin: 0;
+  padding: 0x;
+  margin: 20px 0 -50px 25px;
 }
+
+
+#controldes{
+  font-size: 14px;
+  line-height:24px;
+}
+
+#selection{
+  font-size:18px;
+  text-align:center;
+  margin-top: 20px;
+}
+
+#selection > mark{
+  background-color:yellow;
+}
+
+mark{
+  /* background-color:yellow; */
+  text-align: c;
+  text-align: c;
+}
+
+.firstcharacter {
+  color: black;
+  float: left;
+  display:block;
+  line-height:50px;
+  font-weight:700;
+  font-size: 75px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+#vizarea{
+display: grid;
+grid-template-columns: repeat(3 , 1fr);
+/* grid-template-rows: 1fr 4fr; */
+height: 100vh;
+width: 100%;
+grid-gap: 0.5em;
+margin: auto;
+align-items:center
+}
+
+/* #vizarea > div {
+  padding: 10px;
+} */
+
