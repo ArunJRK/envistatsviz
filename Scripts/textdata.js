@@ -4,7 +4,7 @@ insertdescription();
 function insertdescription(){
     for(var i = 0; i<descriptiondata.length;i++){
         if(!descriptiondata[i].State.localeCompare(name)){
-    $("#infobox").empty().html(descriptiondata[i].controldes);
+    $("#infobox").empty().html("<p id=\"italics\">"+descriptiondata[i].controldes+"</p>");
    console.log("worked");
 }}
 }

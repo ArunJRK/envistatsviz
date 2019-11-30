@@ -195,3 +195,28 @@ align-items:center
   padding: 10px;
 } */
 
+#italics{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+button {
+  background-color: rgba(0, 139, 253, 0.658); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 7px;
+}
+
+button:hover{
+  background: rgb(0, 139, 253);
+}
+
+button > a{
+  text-decoration: none;
+  color: #fff;
+}
