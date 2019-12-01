@@ -1,6 +1,5 @@
 # envistatsviz
 A visualization aiming to provide insights from data of ministry of statistics.
-**Good**
 
 The process that i followed
 1. First understanding how am4 charts use data 
